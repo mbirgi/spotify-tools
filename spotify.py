@@ -1,0 +1,71 @@
+import os
+
+import spotipy
+import spotipy.util
+
+from dotenv import load_dotenv
+load_dotenv()
+
+
+def login(username='mbirgi', scope='user-library-read'):
+    spotify_auth_params = {
+        'client_id': os.getenv('CLIENT_ID'),
+        'client_secret': os.getenv('CLIENT_SECRET'),
+        'redirect_uri': os.getenv('REDIRECT_URI'),
+        'scope': scope
+    }
+
+    try:
+        token = spotipy.util.prompt_for_user_token(username, **spotify_auth_params)
+    except:
+        os.remove(f'.cache-{username}')
+        token = spotipy.util.prompt_for_user_token(username, **spotify_auth_params)
+
+    return spotipy.Spotify(auth=token)
+
+
+def get_genres(track, sp):
+    artist_id = track['artists'][0]['id']
+    artist = sp.artist(artist_id)
+    genres = artist['genres']
+    return genres
+
+
+def get_playlist_by_name(spotipy_instance, playlist_name, create_if_none=False):
+    user_id = spotipy_instance.current_user()['id']
+    results = spotipy_instance.user_playlists(user_id)
+    user_playlists = results['items']
+    while results['next']:
+        results = spotipy_instance.next(results)
+        user_playlists.extend(results['items'])
+    playlist_id, is_new = None, None
+    for list in user_playlists:
+        if playlist_name == list['name']:
+            playlist_id = list['id']
+            is_new = False
+            break
+    if not playlist_id and create_if_none == True:
+        new_playlist = spotipy_instance.user_playlist_create(user_id, name=playlist_name, public=False)
+        playlist_id = new_playlist['id']
+        is_new = True
+    return playlist_id, is_new
+
+
+def add_tracks(spotipy_instance, playlist_id, track_ids, skip_duplicates=True):
+    results = spotipy_instance.playlist_tracks(playlist_id)     # TODO: get only IDs ('fields' filter)
+    existing_tracks = results['items']
+    while results['next']:
+        results = spotipy_instance.next(results)
+        existing_tracks.extend(results['items'])
+    existing_track_ids = [item['track']['id'] for item in existing_tracks]
+    # print(f"Existing tracks: {existing_track_ids}")
+    if skip_duplicates:
+        new_track_ids = [track_id for track_id in track_ids if track_id not in existing_track_ids]
+    else:
+        new_track_ids = track_ids
+    user_id = spotipy_instance.current_user()['id']
+    # print(f"Tracks to be added: {new_track_ids}")
+    if new_track_ids:
+        spotipy_instance.user_playlist_add_tracks(user_id, playlist_id, new_track_ids)
+        return len(new_track_ids)
+    return 0
