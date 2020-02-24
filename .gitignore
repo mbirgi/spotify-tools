@@ -3,6 +3,7 @@
 .cache*
 .ipynb_checkpoints
 scrapes/
+__pycache__
 
 # IDE files (as proposed by IntelliJ)
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and WebStorm
