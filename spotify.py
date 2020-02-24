@@ -24,9 +24,9 @@ def login(username='mbirgi', scope='user-library-read'):
     return spotipy.Spotify(auth=token)
 
 
-def get_genres(track, sp):
+def get_genres(track, spotipy_instance):
     artist_id = track['artists'][0]['id']
-    artist = sp.artist(artist_id)
+    artist = spotipy_instance.artist(artist_id)
     genres = artist['genres']
     return genres
 
