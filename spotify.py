@@ -69,3 +69,27 @@ def add_tracks(spotipy_instance, playlist_id, track_ids, skip_duplicates=True):
         spotipy_instance.user_playlist_add_tracks(user_id, playlist_id, new_track_ids)
         return len(new_track_ids)
     return 0
+
+
+def get_tracks_in_playlists(spotipy_instance, playlist_ids):
+    tracks = []
+    for pl_id in playlist_ids:
+        # print(f"Getting tracks for playlist {pl_id}")
+        results = spotipy_instance.playlist_tracks(pl_id)     # TODO: get only IDs ('fields' filter)
+        pl_tracks = results['items']
+        while results['next']:
+            results = spotipy_instance.next(results)
+            pl_tracks.extend(results['items'])
+        tracks.extend(pl_tracks)
+    return tracks
+
+
+def get_audio_features_for_tracks(spotipy_instance, track_ids):
+    max_ids = 50
+    tracks = []
+    for i in range(0, len(track_ids), max_ids):
+        results = spotipy_instance.audio_features(track_ids[i:i+max_ids])
+        print(results[0])
+        # tracks.extend(results['items'])
+    # return tracks
+
