@@ -85,11 +85,9 @@ def get_tracks_in_playlists(spotipy_instance, playlist_ids):
 
 
 def get_audio_features_for_tracks(spotipy_instance, track_ids):
-    max_ids = 50
-    tracks = []
-    for i in range(0, len(track_ids), max_ids):
-        results = spotipy_instance.audio_features(track_ids[i:i+max_ids])
-        print(results[0])
-        # tracks.extend(results['items'])
-    # return tracks
-
+    batch_size = 50
+    features = []
+    for i in range(0, len(track_ids), batch_size):
+        results = spotipy_instance.audio_features(track_ids[i:i+batch_size])
+        features.extend(results)
+    return features
