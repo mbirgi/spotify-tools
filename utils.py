@@ -1,5 +1,11 @@
+import datetime
 import json
 import os
+
+
+def timestamp():
+    timestamp = datetime.datetime.now().isoformat().split('.')[0].replace(':', '-').replace('T', '-')
+    return timestamp
 
 
 def show_tracks(tracks):
@@ -9,11 +15,13 @@ def show_tracks(tracks):
             line += " (pos: " + str(track['pos'] + 1) + ")"
         print(line)
 
+
 def get_track(item):
     track = item['track']
     id = track['id']
     info = track_info(track)
     return {'id': id, 'info': info}
+
 
 def print_track_list(tracks, verbose=False):
     for index, track in enumerate(tracks, start=1):
@@ -22,6 +30,7 @@ def print_track_list(tracks, verbose=False):
             print("\tid: " + track["id"])
             print("\tpopularity: " + str(track["popularity"]))
             print("\talbum: " + track["album"]["name"])
+
 
 def print_track_audio_features(track_audio_features):
     interesting_features = (
@@ -38,7 +47,8 @@ def print_track_audio_features(track_audio_features):
         k: track_audio_features[k] for k in interesting_features
     }
     print(json.dumps(track_audio_features_concentrated,
-            sort_keys = False, indent = 4))
+                     sort_keys=False, indent=4))
+
 
 def get_tracks_from_response(response):
     track_results = response['tracks']
@@ -48,11 +58,13 @@ def get_tracks_from_response(response):
         tracks.append(track)
     return tracks
 
+
 def get_track_ids(tracks):
     ids = []
     for track in tracks:
         ids.append(track['id'])
     return ids
+
 
 def track_info(track):
     track_name = track['name']
@@ -61,12 +73,13 @@ def track_info(track):
     return (track_name + "  //  "
             + ", ".join(artist_names))
 
+
 def colprint(list_to_print):
     screen_width = int(os.popen('stty size', 'r').read().split()[1])
     col_width = len(max(list_to_print, key=len)) + 2
     num_cols = (screen_width - 4) // col_width
     num_lines = (len(list_to_print) // num_cols
-            + (len(list_to_print) % num_cols != 0))
+                 + (len(list_to_print) % num_cols != 0))
     lines = []
     fmt_str = '{:<' + str(col_width) + '}'
     for line_index in range(num_lines):
