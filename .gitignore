@@ -2,8 +2,6 @@
 .env
 .cache*
 .ipynb_checkpoints
-scrapes/
-data/
 __pycache__
 
 # IDE files (as proposed by IntelliJ)

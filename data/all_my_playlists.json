@@ -1,0 +1,3750 @@
+[
+    {
+        "collaborative": false,
+        "description": "Deep Funk song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3Z88R9JITTTARqxRoyfSqp"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3Z88R9JITTTARqxRoyfSqp",
+        "id": "3Z88R9JITTTARqxRoyfSqp",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27314a2ce9a383495432a8157ddab67616d0000b2734f3973e8080205a445cb8a98ab67616d0000b2737eb310880bbdde90c0411632ab67616d0000b273813c63f976044f239d74b696",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27314a2ce9a383495432a8157ddab67616d0000b2734f3973e8080205a445cb8a98ab67616d0000b2737eb310880bbdde90c0411632ab67616d0000b273813c63f976044f239d74b696",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27314a2ce9a383495432a8157ddab67616d0000b2734f3973e8080205a445cb8a98ab67616d0000b2737eb310880bbdde90c0411632ab67616d0000b273813c63f976044f239d74b696",
+                "width": 60
+            }
+        ],
+        "name": "Deep Funk",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCxiNjEwODEwZmRlYjdlNmZjNTE0ZDU3ODY4NzgwM2VkZTkzZTlmNzY3",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3Z88R9JITTTARqxRoyfSqp/tracks",
+            "total": 36
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3Z88R9JITTTARqxRoyfSqp"
+    },
+    {
+        "collaborative": false,
+        "description": "Deep Funk Revival song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/1QeFov6j2uSPJ2CE3JsZhL"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1QeFov6j2uSPJ2CE3JsZhL",
+        "id": "1QeFov6j2uSPJ2CE3JsZhL",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27309268fcf99197e5289a3870aab67616d0000b273780b0d7afd92f739e4f213a2ab67616d0000b2737c4a6e25b31b05750f77180cab67616d0000b273ef675e19f7194a1461743a4d",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27309268fcf99197e5289a3870aab67616d0000b273780b0d7afd92f739e4f213a2ab67616d0000b2737c4a6e25b31b05750f77180cab67616d0000b273ef675e19f7194a1461743a4d",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27309268fcf99197e5289a3870aab67616d0000b273780b0d7afd92f739e4f213a2ab67616d0000b2737c4a6e25b31b05750f77180cab67616d0000b273ef675e19f7194a1461743a4d",
+                "width": 60
+            }
+        ],
+        "name": "Deep Funk Revival",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCxjNmMzMDNmNGIyYWE4NTQzM2VmYWIzNmMxMjU0NDVjODY5NWYxOTkx",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/1QeFov6j2uSPJ2CE3JsZhL/tracks",
+            "total": 43
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1QeFov6j2uSPJ2CE3JsZhL"
+    },
+    {
+        "collaborative": false,
+        "description": "Disco song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/318e4Nc7Cc9byZ7jX8f7dD"
+        },
+        "href": "https://api.spotify.com/v1/playlists/318e4Nc7Cc9byZ7jX8f7dD",
+        "id": "318e4Nc7Cc9byZ7jX8f7dD",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2737a816fa75d970464b5ac29beab67616d0000b2738be7a811c839f3485de9647fab67616d0000b273d12c40e9c2140939ac4ba130ab67616d0000b273e2c1f7c1ee0ee027f41178fd",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2737a816fa75d970464b5ac29beab67616d0000b2738be7a811c839f3485de9647fab67616d0000b273d12c40e9c2140939ac4ba130ab67616d0000b273e2c1f7c1ee0ee027f41178fd",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2737a816fa75d970464b5ac29beab67616d0000b2738be7a811c839f3485de9647fab67616d0000b273d12c40e9c2140939ac4ba130ab67616d0000b273e2c1f7c1ee0ee027f41178fd",
+                "width": 60
+            }
+        ],
+        "name": "Disco",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCxiNmNmZTkwMzM0Nzg5MzlmMjI2YjRmNzZjODhiN2ZmMzIxMmE1NWMy",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/318e4Nc7Cc9byZ7jX8f7dD/tracks",
+            "total": 33
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:318e4Nc7Cc9byZ7jX8f7dD"
+    },
+    {
+        "collaborative": false,
+        "description": "Roots Reggae song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0Zoz8mGOcO8SXTMHvqO3Mr"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0Zoz8mGOcO8SXTMHvqO3Mr",
+        "id": "0Zoz8mGOcO8SXTMHvqO3Mr",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2733080f5a0098da4b2c46b2938ab67616d0000b273995588ad272e39bfc75016a3ab67616d0000b2739c7b208c7c3ecdb325613d34ab67616d0000b273e77a671e859f14fd2f222bac",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2733080f5a0098da4b2c46b2938ab67616d0000b273995588ad272e39bfc75016a3ab67616d0000b2739c7b208c7c3ecdb325613d34ab67616d0000b273e77a671e859f14fd2f222bac",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2733080f5a0098da4b2c46b2938ab67616d0000b273995588ad272e39bfc75016a3ab67616d0000b2739c7b208c7c3ecdb325613d34ab67616d0000b273e77a671e859f14fd2f222bac",
+                "width": 60
+            }
+        ],
+        "name": "Roots Reggae",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCw1ZjliODdkYjU1YTZmMTdhNWU1YWNhZmQ2OWNhMDExOTc3NDhlYmZi",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0Zoz8mGOcO8SXTMHvqO3Mr/tracks",
+            "total": 44
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0Zoz8mGOcO8SXTMHvqO3Mr"
+    },
+    {
+        "collaborative": false,
+        "description": "Lovers Rock song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/57niHqfEE55VxeefCcuYQ7"
+        },
+        "href": "https://api.spotify.com/v1/playlists/57niHqfEE55VxeefCcuYQ7",
+        "id": "57niHqfEE55VxeefCcuYQ7",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273485ab0f24fab665d83e90068ab67616d0000b273a67abbba71f97bae659af8ceab67616d0000b273b6960dcd965137037003c10eab67616d0000b273d95ae7dad16e122d060cd14b",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273485ab0f24fab665d83e90068ab67616d0000b273a67abbba71f97bae659af8ceab67616d0000b273b6960dcd965137037003c10eab67616d0000b273d95ae7dad16e122d060cd14b",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273485ab0f24fab665d83e90068ab67616d0000b273a67abbba71f97bae659af8ceab67616d0000b273b6960dcd965137037003c10eab67616d0000b273d95ae7dad16e122d060cd14b",
+                "width": 60
+            }
+        ],
+        "name": "Lovers Rock",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCwwOTdiN2YzNWRhM2E5OWQ0MDZhODRhODg2OWJmNDM0ODVmZDc0NjI3",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/57niHqfEE55VxeefCcuYQ7/tracks",
+            "total": 40
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:57niHqfEE55VxeefCcuYQ7"
+    },
+    {
+        "collaborative": false,
+        "description": "Dub song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3tyGJTWQJZGdCHZvZPpR5G"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3tyGJTWQJZGdCHZvZPpR5G",
+        "id": "3tyGJTWQJZGdCHZvZPpR5G",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27300b80c40d25750a320d21263ab67616d0000b273aa47e1987a99a219e0ccbdb7ab67616d0000b273ac43949f7a0104ef9d57c21fab67616d0000b273bf4b65b4e45b325797abf60c",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27300b80c40d25750a320d21263ab67616d0000b273aa47e1987a99a219e0ccbdb7ab67616d0000b273ac43949f7a0104ef9d57c21fab67616d0000b273bf4b65b4e45b325797abf60c",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27300b80c40d25750a320d21263ab67616d0000b273aa47e1987a99a219e0ccbdb7ab67616d0000b273ac43949f7a0104ef9d57c21fab67616d0000b273bf4b65b4e45b325797abf60c",
+                "width": 60
+            }
+        ],
+        "name": "Dub",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCwwNGRlYmFjMjk5ZGNjODUyMjRiZTYwYzIzZjUxZjM4NWIxMDI2ZDUy",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3tyGJTWQJZGdCHZvZPpR5G/tracks",
+            "total": 31
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3tyGJTWQJZGdCHZvZPpR5G"
+    },
+    {
+        "collaborative": false,
+        "description": "Soca song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7FtkxYI8OvHFfzTHOMl1Ma"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7FtkxYI8OvHFfzTHOMl1Ma",
+        "id": "7FtkxYI8OvHFfzTHOMl1Ma",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2733e86a0af3c8b40a9325eb79fab67616d0000b27390aa31b02a0276133133e88eab67616d0000b273988492ee65b4ada33ae92542ab67616d0000b273a5d8129d4dfe77e657a62fc2",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2733e86a0af3c8b40a9325eb79fab67616d0000b27390aa31b02a0276133133e88eab67616d0000b273988492ee65b4ada33ae92542ab67616d0000b273a5d8129d4dfe77e657a62fc2",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2733e86a0af3c8b40a9325eb79fab67616d0000b27390aa31b02a0276133133e88eab67616d0000b273988492ee65b4ada33ae92542ab67616d0000b273a5d8129d4dfe77e657a62fc2",
+                "width": 60
+            }
+        ],
+        "name": "Soca",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCw0MzJmNTAxZTU0MjlkY2VlNDIzMDRmZjczYTY3ZjMxNjZkYjFjNmY2",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7FtkxYI8OvHFfzTHOMl1Ma/tracks",
+            "total": 29
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7FtkxYI8OvHFfzTHOMl1Ma"
+    },
+    {
+        "collaborative": false,
+        "description": "Ragga song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5hszPJU8vFYtRqBw5aVv8y"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5hszPJU8vFYtRqBw5aVv8y",
+        "id": "5hszPJU8vFYtRqBw5aVv8y",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273a3d8cec0d649109f7413367bab67616d0000b273da4aa6d0ff0745800cba901cab67616d0000b273f615507b4b847d5865d8c7ffab67616d0000b273f94493717b1bf4dca421910e",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273a3d8cec0d649109f7413367bab67616d0000b273da4aa6d0ff0745800cba901cab67616d0000b273f615507b4b847d5865d8c7ffab67616d0000b273f94493717b1bf4dca421910e",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273a3d8cec0d649109f7413367bab67616d0000b273da4aa6d0ff0745800cba901cab67616d0000b273f615507b4b847d5865d8c7ffab67616d0000b273f94493717b1bf4dca421910e",
+                "width": 60
+            }
+        ],
+        "name": "Ragga",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCxmOTA3NWZlNDg4MDdjMWY4NjcxNTE4OWFjOTQ4M2YwMGMzMzY3YmQ5",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5hszPJU8vFYtRqBw5aVv8y/tracks",
+            "total": 45
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5hszPJU8vFYtRqBw5aVv8y"
+    },
+    {
+        "collaborative": false,
+        "description": "Dancehall song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2fpe5SLYvKs2dxBPwfQpx7"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2fpe5SLYvKs2dxBPwfQpx7",
+        "id": "2fpe5SLYvKs2dxBPwfQpx7",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273168c4bd1693a3ed83e323c1dab67616d0000b27338137595c83f6f37364f5a3bab67616d0000b27383c837321b9a3399dadb6b28ab67616d0000b273a3da9aa796119be94ec18948",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273168c4bd1693a3ed83e323c1dab67616d0000b27338137595c83f6f37364f5a3bab67616d0000b27383c837321b9a3399dadb6b28ab67616d0000b273a3da9aa796119be94ec18948",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273168c4bd1693a3ed83e323c1dab67616d0000b27338137595c83f6f37364f5a3bab67616d0000b27383c837321b9a3399dadb6b28ab67616d0000b273a3da9aa796119be94ec18948",
+                "width": 60
+            }
+        ],
+        "name": "Dancehall",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCw3YzljNTZkZmI5MWI3MDFiYTZlNzdjZmU5Y2VkZjJiYjQwMjM0MmQ4",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2fpe5SLYvKs2dxBPwfQpx7/tracks",
+            "total": 36
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2fpe5SLYvKs2dxBPwfQpx7"
+    },
+    {
+        "collaborative": false,
+        "description": "Jazz-House song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5F1aBXHMHi1vEsjzhIR4ZM"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5F1aBXHMHi1vEsjzhIR4ZM",
+        "id": "5F1aBXHMHi1vEsjzhIR4ZM",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2735e570fc1d95bbf490f8d05cdab67616d0000b273841a15650b658dc76bb02996ab67616d0000b2738f3fa78166f4a7e2d28eb201ab67616d0000b273f08405c87833b6096b62bbf6",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2735e570fc1d95bbf490f8d05cdab67616d0000b273841a15650b658dc76bb02996ab67616d0000b2738f3fa78166f4a7e2d28eb201ab67616d0000b273f08405c87833b6096b62bbf6",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2735e570fc1d95bbf490f8d05cdab67616d0000b273841a15650b658dc76bb02996ab67616d0000b2738f3fa78166f4a7e2d28eb201ab67616d0000b273f08405c87833b6096b62bbf6",
+                "width": 60
+            }
+        ],
+        "name": "Jazz-House",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NCw4YjNmODBhMTY3YjA5ZWZhYjg5OGM4OTUwNDNjMzJiM2I3MTllOTVh",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5F1aBXHMHi1vEsjzhIR4ZM/tracks",
+            "total": 31
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5F1aBXHMHi1vEsjzhIR4ZM"
+    },
+    {
+        "collaborative": false,
+        "description": "Dubstep song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7L0l1iHs8fnqp56M0wnvnR"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7L0l1iHs8fnqp56M0wnvnR",
+        "id": "7L0l1iHs8fnqp56M0wnvnR",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273c1cccf18e77c177065052c02ab67616d0000b273dedfdd43e722d328ad6de7c3ab67616d0000b273ea5417035bc8bd9c45ac2ff7ab67616d0000b273f28053d3f9b9149064b071b1",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273c1cccf18e77c177065052c02ab67616d0000b273dedfdd43e722d328ad6de7c3ab67616d0000b273ea5417035bc8bd9c45ac2ff7ab67616d0000b273f28053d3f9b9149064b071b1",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273c1cccf18e77c177065052c02ab67616d0000b273dedfdd43e722d328ad6de7c3ab67616d0000b273ea5417035bc8bd9c45ac2ff7ab67616d0000b273f28053d3f9b9149064b071b1",
+                "width": 60
+            }
+        ],
+        "name": "Dubstep",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NCw4NDExMDVlYTM4ZjNiMTQ5ZGIxNGFkMWE3Mzc2ZGEyOTg4Nzg4OTNh",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7L0l1iHs8fnqp56M0wnvnR/tracks",
+            "total": 43
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7L0l1iHs8fnqp56M0wnvnR"
+    },
+    {
+        "collaborative": false,
+        "description": "Downbeat song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/06BalMPv4H9hUvZa4PQQmA"
+        },
+        "href": "https://api.spotify.com/v1/playlists/06BalMPv4H9hUvZa4PQQmA",
+        "id": "06BalMPv4H9hUvZa4PQQmA",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27324850f3eb04b5132b96df67aab67616d0000b273c22bda9298c19861bdf78a6eab67616d0000b273d382ad87eefc6d7716c357ecab67616d0000b273e2d276d02265cfd1adc0ee81",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27324850f3eb04b5132b96df67aab67616d0000b273c22bda9298c19861bdf78a6eab67616d0000b273d382ad87eefc6d7716c357ecab67616d0000b273e2d276d02265cfd1adc0ee81",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27324850f3eb04b5132b96df67aab67616d0000b273c22bda9298c19861bdf78a6eab67616d0000b273d382ad87eefc6d7716c357ecab67616d0000b273e2d276d02265cfd1adc0ee81",
+                "width": 60
+            }
+        ],
+        "name": "Downbeat",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NSwzMTIxYjczNjUxNGVlZDM3ZmQyMGMyZTdiM2Y4ZGYyMmIxYTYxNTg1",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/06BalMPv4H9hUvZa4PQQmA/tracks",
+            "total": 37
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:06BalMPv4H9hUvZa4PQQmA"
+    },
+    {
+        "collaborative": false,
+        "description": "Clubjazz song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5DzWiA5uNMsMevFSCdcfgp"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5DzWiA5uNMsMevFSCdcfgp",
+        "id": "5DzWiA5uNMsMevFSCdcfgp",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2731f21360c317e09449797e684ab67616d0000b273b177165432854f9c77369c52ab67616d0000b273cf07f83667ece744151a62b1ab67616d0000b273dd2d9468d033581c425eee83",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2731f21360c317e09449797e684ab67616d0000b273b177165432854f9c77369c52ab67616d0000b273cf07f83667ece744151a62b1ab67616d0000b273dd2d9468d033581c425eee83",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2731f21360c317e09449797e684ab67616d0000b273b177165432854f9c77369c52ab67616d0000b273cf07f83667ece744151a62b1ab67616d0000b273dd2d9468d033581c425eee83",
+                "width": 60
+            }
+        ],
+        "name": "Clubjazz",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NSw2NjY4ZGQ2MzEyMDM4MzZiZjc2YzI4NzNhYWMxYWM3NTA4NTQ5M2Yx",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5DzWiA5uNMsMevFSCdcfgp/tracks",
+            "total": 36
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5DzWiA5uNMsMevFSCdcfgp"
+    },
+    {
+        "collaborative": false,
+        "description": "Trip-Hop song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5hjUKe8JJQQC521mSCZqzX"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5hjUKe8JJQQC521mSCZqzX",
+        "id": "5hjUKe8JJQQC521mSCZqzX",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273032e395e4a79caf92cc924c9ab67616d0000b273768d171a47a3adae90c7c48aab67616d0000b273b129ba321c1903f9990a2612ab67616d0000b273dc20397b139223620af148f6",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273032e395e4a79caf92cc924c9ab67616d0000b273768d171a47a3adae90c7c48aab67616d0000b273b129ba321c1903f9990a2612ab67616d0000b273dc20397b139223620af148f6",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273032e395e4a79caf92cc924c9ab67616d0000b273768d171a47a3adae90c7c48aab67616d0000b273b129ba321c1903f9990a2612ab67616d0000b273dc20397b139223620af148f6",
+                "width": 60
+            }
+        ],
+        "name": "Trip-Hop",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NSwxMWRkMDEwZDg0MGYxYWFlNmM1NjY1MmQxYTg4ZTNlMTc2NGU0MmM0",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5hjUKe8JJQQC521mSCZqzX/tracks",
+            "total": 39
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5hjUKe8JJQQC521mSCZqzX"
+    },
+    {
+        "collaborative": false,
+        "description": "Funky Beats song highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4gbxlR9bGUvaRdUZNKhacP"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4gbxlR9bGUvaRdUZNKhacP",
+        "id": "4gbxlR9bGUvaRdUZNKhacP",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2730fde49678102915a0fc93d22ab67616d0000b2731c23f258378f32d8d63dc150ab67616d0000b273befecaa2c30a3302c88cbe88ab67616d0000b273e7da90a707e3afb0159ce8b9",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2730fde49678102915a0fc93d22ab67616d0000b2731c23f258378f32d8d63dc150ab67616d0000b273befecaa2c30a3302c88cbe88ab67616d0000b273e7da90a707e3afb0159ce8b9",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2730fde49678102915a0fc93d22ab67616d0000b2731c23f258378f32d8d63dc150ab67616d0000b273befecaa2c30a3302c88cbe88ab67616d0000b273e7da90a707e3afb0159ce8b9",
+                "width": 60
+            }
+        ],
+        "name": "Funky Breaks",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "OCwyNDIxZTgzNWJjYzU1ZjM2OTcyNjI5YjM5NWUwMjQyM2MwODNkMGEw",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4gbxlR9bGUvaRdUZNKhacP/tracks",
+            "total": 34
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4gbxlR9bGUvaRdUZNKhacP"
+    },
+    {
+        "collaborative": false,
+        "description": "The 3 most popular tracks for Clubjazz artist highlights from allmusic.com",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0kWG4VR9NbUG9co1EcogkG"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0kWG4VR9NbUG9co1EcogkG",
+        "id": "0kWG4VR9NbUG9co1EcogkG",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27303cf89139b635f2475cd98ceab67616d0000b2739b372f93e574ce3281a55cb8ab67616d0000b273c29387283a6a2027beddce35ab67616d0000b273d43a939d2c896ab2901a50b2",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27303cf89139b635f2475cd98ceab67616d0000b2739b372f93e574ce3281a55cb8ab67616d0000b273c29387283a6a2027beddce35ab67616d0000b273d43a939d2c896ab2901a50b2",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27303cf89139b635f2475cd98ceab67616d0000b2739b372f93e574ce3281a55cb8ab67616d0000b273c29387283a6a2027beddce35ab67616d0000b273d43a939d2c896ab2901a50b2",
+                "width": 60
+            }
+        ],
+        "name": "Clubjazz Artists - Popular Tracks",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NixkZGNjZjU5YjY0MDY5ZWJmZmVhMjNlMTdmZTE4YWU2NmQ0YzRjZDQy",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0kWG4VR9NbUG9co1EcogkG/tracks",
+            "total": 36
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0kWG4VR9NbUG9co1EcogkG"
+    },
+    {
+        "collaborative": false,
+        "description": "Forget it and disappear with chill <a href=\"spotify:genre:edm_dance\">house</a>.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2TRYkJECvfC"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2TRYkJECvfC",
+        "id": "37i9dQZF1DX2TRYkJECvfC",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f0000000288165523fdefdb36279ffb99",
+                "width": null
+            }
+        ],
+        "name": "Deep House Relax",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU4Mzk0NjM0NiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2TRYkJECvfC/tracks",
+            "total": 149
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX2TRYkJECvfC"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4YrduY0aSHS4Up75fzwP3v"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4YrduY0aSHS4Up75fzwP3v",
+        "id": "4YrduY0aSHS4Up75fzwP3v",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2733de8ac405a0f635c24490754ab67616d0000b27343652f722c146ccaf19e2019ab67616d0000b273794212dbd9c9237db44961e4ab67616d0000b273f0ad1108925690e333b0752c",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2733de8ac405a0f635c24490754ab67616d0000b27343652f722c146ccaf19e2019ab67616d0000b273794212dbd9c9237db44961e4ab67616d0000b273f0ad1108925690e333b0752c",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2733de8ac405a0f635c24490754ab67616d0000b27343652f722c146ccaf19e2019ab67616d0000b273794212dbd9c9237db44961e4ab67616d0000b273f0ad1108925690e333b0752c",
+                "width": 60
+            }
+        ],
+        "name": "Run Test (Categories) BPM 126 - 130",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NixlNzAyZDViOWYwYzI5MDI5ZWEwYjJkODM5NGRmZTcwN2I2M2VhMDM0",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4YrduY0aSHS4Up75fzwP3v/tracks",
+            "total": 24
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4YrduY0aSHS4Up75fzwP3v"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7nHjgUFDClcJZTiryiZKjm"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7nHjgUFDClcJZTiryiZKjm",
+        "id": "7nHjgUFDClcJZTiryiZKjm",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273100a85d0e5c743750bed630dab67616d0000b273409c7eeb21847ae26ff2d780ab67616d0000b2739d74b70c416155a3701a882fab67616d0000b273b30c8b93cef6fa26f8a7f17a",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273100a85d0e5c743750bed630dab67616d0000b273409c7eeb21847ae26ff2d780ab67616d0000b2739d74b70c416155a3701a882fab67616d0000b273b30c8b93cef6fa26f8a7f17a",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273100a85d0e5c743750bed630dab67616d0000b273409c7eeb21847ae26ff2d780ab67616d0000b2739d74b70c416155a3701a882fab67616d0000b273b30c8b93cef6fa26f8a7f17a",
+                "width": 60
+            }
+        ],
+        "name": "Run Test (Categories) BPM 125 - 130",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTYsMjExZjg5OWJiZmFlYTdmODkzODU0NWNiOTNhMzJiMmEyNDAyYzEyZA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7nHjgUFDClcJZTiryiZKjm/tracks",
+            "total": 43
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7nHjgUFDClcJZTiryiZKjm"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7vwxk7gx3V8ppIfOupmidP"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7vwxk7gx3V8ppIfOupmidP",
+        "id": "7vwxk7gx3V8ppIfOupmidP",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27362bdcbcccc445b8377da1b7bab67616d0000b2737aa9bce3206570cbb3b7b72eab67616d0000b273c9a06b598584d8cfab4bcd8fab67616d0000b273f297cbcd2d78559c38273e35",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27362bdcbcccc445b8377da1b7bab67616d0000b2737aa9bce3206570cbb3b7b72eab67616d0000b273c9a06b598584d8cfab4bcd8fab67616d0000b273f297cbcd2d78559c38273e35",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27362bdcbcccc445b8377da1b7bab67616d0000b2737aa9bce3206570cbb3b7b72eab67616d0000b273c9a06b598584d8cfab4bcd8fab67616d0000b273f297cbcd2d78559c38273e35",
+                "width": 60
+            }
+        ],
+        "name": "Run Test BPM 125 - 130",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTIsZTZhYzBhY2YxMjUyNzRlOGFmNTFkZTA0ODY0ZjU5ZWVjZTVmMDNhMA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7vwxk7gx3V8ppIfOupmidP/tracks",
+            "total": 58
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7vwxk7gx3V8ppIfOupmidP"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/08CVuk5TKfBivxwWz0zu1X"
+        },
+        "href": "https://api.spotify.com/v1/playlists/08CVuk5TKfBivxwWz0zu1X",
+        "id": "08CVuk5TKfBivxwWz0zu1X",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27325d01e478369e09c301d3a4cab67616d0000b2732711f40a7071f494ff19acd3ab67616d0000b273377543573c1a89cbb2bfe817ab67616d0000b273f79bdc1e30f0e390a2cef22a",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27325d01e478369e09c301d3a4cab67616d0000b2732711f40a7071f494ff19acd3ab67616d0000b273377543573c1a89cbb2bfe817ab67616d0000b273f79bdc1e30f0e390a2cef22a",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27325d01e478369e09c301d3a4cab67616d0000b2732711f40a7071f494ff19acd3ab67616d0000b273377543573c1a89cbb2bfe817ab67616d0000b273f79bdc1e30f0e390a2cef22a",
+                "width": 60
+            }
+        ],
+        "name": "Vocal Jazz",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MjcsYTg1MjBhNTkwM2JmNDQyNmEzZWM2MmQyNzdjMWRkYTNkMzdjNmUyMw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/08CVuk5TKfBivxwWz0zu1X/tracks",
+            "total": 26
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:08CVuk5TKfBivxwWz0zu1X"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/31ncBxcoGHB9lTbAEly5xR"
+        },
+        "href": "https://api.spotify.com/v1/playlists/31ncBxcoGHB9lTbAEly5xR",
+        "id": "31ncBxcoGHB9lTbAEly5xR",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27340f3c7b62e4eb3f48845ea96ab67616d0000b27388edfa5fd8932884ddcb41a4ab67616d0000b273892e7c220da293a49ae812cbab67616d0000b2739f8c1487efc439f050286b74",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27340f3c7b62e4eb3f48845ea96ab67616d0000b27388edfa5fd8932884ddcb41a4ab67616d0000b273892e7c220da293a49ae812cbab67616d0000b2739f8c1487efc439f050286b74",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27340f3c7b62e4eb3f48845ea96ab67616d0000b27388edfa5fd8932884ddcb41a4ab67616d0000b273892e7c220da293a49ae812cbab67616d0000b2739f8c1487efc439f050286b74",
+                "width": 60
+            }
+        ],
+        "name": "OpenBroadcast - Good Vibes (by baxter)",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "OCw2MzQ5YjdlOWQwOWE4ZTQ1YjRhYTcxYWQ1ODA5Yzk4Y2NlNWYzNjkw",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/31ncBxcoGHB9lTbAEly5xR/tracks",
+            "total": 462
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:31ncBxcoGHB9lTbAEly5xR"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2J7C570IoHMn1zccjQMF2Q"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2J7C570IoHMn1zccjQMF2Q",
+        "id": "2J7C570IoHMn1zccjQMF2Q",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2734826b66366af7a6a6297da34ab67616d0000b27388272be22ac6ef62639f213eab67616d0000b273cfdeffefdbf2cd0b0e2451f7cd71afef978e61e739d9efbdb5ba7fc0c5ab293f",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2734826b66366af7a6a6297da34ab67616d0000b27388272be22ac6ef62639f213eab67616d0000b273cfdeffefdbf2cd0b0e2451f7cd71afef978e61e739d9efbdb5ba7fc0c5ab293f",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2734826b66366af7a6a6297da34ab67616d0000b27388272be22ac6ef62639f213eab67616d0000b273cfdeffefdbf2cd0b0e2451f7cd71afef978e61e739d9efbdb5ba7fc0c5ab293f",
+                "width": 60
+            }
+        ],
+        "name": "OpenBroadcast - Cool Sessions (by blundetto)",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MjUsZDI4YmJmNmVmNDQ4NGQ2ZmM4ZTAwYTNkMjBjOWEyNWY2YjY1OWJlOQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2J7C570IoHMn1zccjQMF2Q/tracks",
+            "total": 570
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2J7C570IoHMn1zccjQMF2Q"
+    },
+    {
+        "collaborative": false,
+        "description": "Most of the songs that appeared on the great funk compliation that came out in 2006 on Rhino Records.  Of the 91 songs that appeared on What It Is, I was unable to find 13 of them on Spotify.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2CeBVMJ2bgXjtcqFiN2ncB"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2CeBVMJ2bgXjtcqFiN2ncB",
+        "id": "2CeBVMJ2bgXjtcqFiN2ncB",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706c0000da84498ccdeeb4b4e32c0d42f642",
+                "width": null
+            }
+        ],
+        "name": "What It Is!: Funky Soul And Rare Grooves",
+        "owner": {
+            "display_name": "Jeff Hofman",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/125978452"
+            },
+            "href": "https://api.spotify.com/v1/users/125978452",
+            "id": "125978452",
+            "type": "user",
+            "uri": "spotify:user:125978452"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "OTYsNTBmZTgyMWY5YjZjMGNhMGNjZGY5MjZjMjViOTZjZDdiODJlNWRmMw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2CeBVMJ2bgXjtcqFiN2ncB/tracks",
+            "total": 78
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2CeBVMJ2bgXjtcqFiN2ncB"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6o1P05DvR4Z5aMutMiGb7Y"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6o1P05DvR4Z5aMutMiGb7Y",
+        "id": "6o1P05DvR4Z5aMutMiGb7Y",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273c8879f13f54242610c9c11ad",
+                "width": 640
+            }
+        ],
+        "name": "Alternative",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NCxmN2I0ZDEyMDU3YmFlOGUxYjhjMTQ1MGFkMmRjZGE3NGE0ODIyODlk",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6o1P05DvR4Z5aMutMiGb7Y/tracks",
+            "total": 2
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6o1P05DvR4Z5aMutMiGb7Y"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7wHVkQaQ45X055sUeU5Thx"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7wHVkQaQ45X055sUeU5Thx",
+        "id": "7wHVkQaQ45X055sUeU5Thx",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2735dbc66107b2720f1722f5bbdab67616d0000b2738880f4410fa15d84ff089f4cab67616d0000b273ab27c08095d7616cfd34a872ab67616d0000b273b89a892b3cc903d6a87dd296",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2735dbc66107b2720f1722f5bbdab67616d0000b2738880f4410fa15d84ff089f4cab67616d0000b273ab27c08095d7616cfd34a872ab67616d0000b273b89a892b3cc903d6a87dd296",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2735dbc66107b2720f1722f5bbdab67616d0000b2738880f4410fa15d84ff089f4cab67616d0000b273ab27c08095d7616cfd34a872ab67616d0000b273b89a892b3cc903d6a87dd296",
+                "width": 60
+            }
+        ],
+        "name": "Straight Ahead Jazz",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MjAsMTQ4MjNkNDA2MzQ2YjRhOWUwN2RlYTUxODM2MjZkOWFmNDk1NTJkMQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7wHVkQaQ45X055sUeU5Thx/tracks",
+            "total": 18
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7wHVkQaQ45X055sUeU5Thx"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/77523QiGKT14yvmZM4bJl9"
+        },
+        "href": "https://api.spotify.com/v1/playlists/77523QiGKT14yvmZM4bJl9",
+        "id": "77523QiGKT14yvmZM4bJl9",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27320a58bd2f6d0f238bd0433beab67616d0000b27325d01e478369e09c301d3a4cab67616d0000b2735dbc66107b2720f1722f5bbdab67616d0000b273b89a892b3cc903d6a87dd296",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27320a58bd2f6d0f238bd0433beab67616d0000b27325d01e478369e09c301d3a4cab67616d0000b2735dbc66107b2720f1722f5bbdab67616d0000b273b89a892b3cc903d6a87dd296",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27320a58bd2f6d0f238bd0433beab67616d0000b27325d01e478369e09c301d3a4cab67616d0000b2735dbc66107b2720f1722f5bbdab67616d0000b273b89a892b3cc903d6a87dd296",
+                "width": 60
+            }
+        ],
+        "name": "Swiss Jazz Radio Tracks",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTQsYzgxMmUwZmJiNWUxMzM0ZjhlMDAzNGZjMTkxOGM3MmY1NGRkODU5NQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/77523QiGKT14yvmZM4bJl9/tracks",
+            "total": 52
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:77523QiGKT14yvmZM4bJl9"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7taG2mm7i5ng9FTSYGXXgG"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7taG2mm7i5ng9FTSYGXXgG",
+        "id": "7taG2mm7i5ng9FTSYGXXgG",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27303c2a908c93614d7eac0032fab67616d0000b2736ae6067bd94d9f738a917697ab67616d0000b273af42746cb4adda65780ab11eab67616d0000b273ddb70c1ac0c06bf85f50836e",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27303c2a908c93614d7eac0032fab67616d0000b2736ae6067bd94d9f738a917697ab67616d0000b273af42746cb4adda65780ab11eab67616d0000b273ddb70c1ac0c06bf85f50836e",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27303c2a908c93614d7eac0032fab67616d0000b2736ae6067bd94d9f738a917697ab67616d0000b273af42746cb4adda65780ab11eab67616d0000b273ddb70c1ac0c06bf85f50836e",
+                "width": 60
+            }
+        ],
+        "name": "Lounge",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTEwLDBmYTY0YmM4NWMzYmNlMWVkNzY1NTgyZDdlM2U2YWUyOWZiYTZhNTA=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7taG2mm7i5ng9FTSYGXXgG/tracks",
+            "total": 110
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7taG2mm7i5ng9FTSYGXXgG"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6PiQoc29V3FK7h4M0j26cZ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6PiQoc29V3FK7h4M0j26cZ",
+        "id": "6PiQoc29V3FK7h4M0j26cZ",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273aa1f22a876b28551ce436bca",
+                "width": 640
+            }
+        ],
+        "name": "RnB",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MixmYWViMGUwNjA3YzcwYWM2OTA5OGQwMDgyZDE0YWRkZjYxMGFjN2Vh",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6PiQoc29V3FK7h4M0j26cZ/tracks",
+            "total": 1
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6PiQoc29V3FK7h4M0j26cZ"
+    },
+    {
+        "collaborative": false,
+        "description": "Chill hip-hop beats with a jazzy edge.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0SM0LYsmbMT"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0SM0LYsmbMT",
+        "id": "37i9dQZF1DX0SM0LYsmbMT",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f000000022f5ef11b68089ed3b8166944",
+                "width": null
+            }
+        ],
+        "name": "Jazz Vibes",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU4MzgzODExMywwMDAwMDE4OTAwMDAwMTcwYzQxYmFkNWIwMDAwMDE2ZDE1NWE0MzFi",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0SM0LYsmbMT/tracks",
+            "total": 200
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX0SM0LYsmbMT"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5gJwRJa3j5KoOeLGJcoOhn"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5gJwRJa3j5KoOeLGJcoOhn",
+        "id": "5gJwRJa3j5KoOeLGJcoOhn",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2730776906fd906313690a1c6e1ab67616d0000b2732292a05362ca1124e19e3a3fab67616d0000b273ed0c5c372f996653ef286907ab67616d0000b273f04075802e5ea8fbfe2fa0d6",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2730776906fd906313690a1c6e1ab67616d0000b2732292a05362ca1124e19e3a3fab67616d0000b273ed0c5c372f996653ef286907ab67616d0000b273f04075802e5ea8fbfe2fa0d6",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2730776906fd906313690a1c6e1ab67616d0000b2732292a05362ca1124e19e3a3fab67616d0000b273ed0c5c372f996653ef286907ab67616d0000b273f04075802e5ea8fbfe2fa0d6",
+                "width": 60
+            }
+        ],
+        "name": "Discoveries",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NSwwODdlNTczZWMxYjQ0NDc5MmJjYjcyZjE3MzhjNzc5ZDE4MzU5NmZj",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5gJwRJa3j5KoOeLGJcoOhn/tracks",
+            "total": 4
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5gJwRJa3j5KoOeLGJcoOhn"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4eo9J2YJt44sFeiBSqKlAh"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4eo9J2YJt44sFeiBSqKlAh",
+        "id": "4eo9J2YJt44sFeiBSqKlAh",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273b18f7e8698d5c182f0bbf914ab67616d0000b273b7ef17835c64c36ec006119bab67616d0000b273e6de65a817df85d564b70fd0ab67616d0000b273efa8291b2e8b90c2f5bd0889",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273b18f7e8698d5c182f0bbf914ab67616d0000b273b7ef17835c64c36ec006119bab67616d0000b273e6de65a817df85d564b70fd0ab67616d0000b273efa8291b2e8b90c2f5bd0889",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273b18f7e8698d5c182f0bbf914ab67616d0000b273b7ef17835c64c36ec006119bab67616d0000b273e6de65a817df85d564b70fd0ab67616d0000b273efa8291b2e8b90c2f5bd0889",
+                "width": 60
+            }
+        ],
+        "name": "Discover Weekly Archive",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "OTAzLGIyMjg4ODMwM2FiYjg5NzY3NTE3OWY4NjE5MjgxMTA4MzVmNTJjZTM=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4eo9J2YJt44sFeiBSqKlAh/tracks",
+            "total": 902
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4eo9J2YJt44sFeiBSqKlAh"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/1FPLhb28UvpChpnjFFWqNC"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1FPLhb28UvpChpnjFFWqNC",
+        "id": "1FPLhb28UvpChpnjFFWqNC",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273b18f7e8698d5c182f0bbf914ab67616d0000b273b7ef17835c64c36ec006119bab67616d0000b273e6de65a817df85d564b70fd0ab67616d0000b273efa8291b2e8b90c2f5bd0889",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273b18f7e8698d5c182f0bbf914ab67616d0000b273b7ef17835c64c36ec006119bab67616d0000b273e6de65a817df85d564b70fd0ab67616d0000b273efa8291b2e8b90c2f5bd0889",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273b18f7e8698d5c182f0bbf914ab67616d0000b273b7ef17835c64c36ec006119bab67616d0000b273e6de65a817df85d564b70fd0ab67616d0000b273efa8291b2e8b90c2f5bd0889",
+                "width": 60
+            }
+        ],
+        "name": "Discover Archive",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "ODQ5LGFmOGIzM2YyZjQwMWZlYmE4YjcxNDc5OWIyNWExODhjMTA2MjM0YmY=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/1FPLhb28UvpChpnjFFWqNC/tracks",
+            "total": 848
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1FPLhb28UvpChpnjFFWqNC"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2AmGjZtnEsGjHY4btuyVtE"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2AmGjZtnEsGjHY4btuyVtE",
+        "id": "2AmGjZtnEsGjHY4btuyVtE",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273306cfc4dd5258912899fe974ab67616d0000b27383e16808af0c4930de851af3ab67616d0000b2738d9fd04051e6057103fd3092ac5d40b67ecfbcec28c9e70fce15aff04b06cb9f",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273306cfc4dd5258912899fe974ab67616d0000b27383e16808af0c4930de851af3ab67616d0000b2738d9fd04051e6057103fd3092ac5d40b67ecfbcec28c9e70fce15aff04b06cb9f",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273306cfc4dd5258912899fe974ab67616d0000b27383e16808af0c4930de851af3ab67616d0000b2738d9fd04051e6057103fd3092ac5d40b67ecfbcec28c9e70fce15aff04b06cb9f",
+                "width": 60
+            }
+        ],
+        "name": "Laid Back",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTMsZjU1NjI0YWIzMjMxMDE2OGJkMjA4NGJkZjYzOTAwNTViMDJjMzVjYw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2AmGjZtnEsGjHY4btuyVtE/tracks",
+            "total": 11
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2AmGjZtnEsGjHY4btuyVtE"
+    },
+    {
+        "collaborative": false,
+        "description": "Groovy Funk, Soul and R&amp;B stuff",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0vay9gW8AcsmEycNCh8pnz"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0vay9gW8AcsmEycNCh8pnz",
+        "id": "0vay9gW8AcsmEycNCh8pnz",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706c0000da84f85c552954848d80aa3e9b5e",
+                "width": null
+            }
+        ],
+        "name": "Groove Machine",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "Mjc4LDBkZjVkNjc0ZTRmYmEyYWFlNTA4MzViZDk2Y2U5YmQxMTY5Yjc4MmI=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0vay9gW8AcsmEycNCh8pnz/tracks",
+            "total": 323
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0vay9gW8AcsmEycNCh8pnz"
+    },
+    {
+        "collaborative": false,
+        "description": "No screaming guitars and howling wolves here!",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5JxWyerhVliarR0JEhV7Bh"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5JxWyerhVliarR0JEhV7Bh",
+        "id": "5JxWyerhVliarR0JEhV7Bh",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706c0000da84a44c5cc90a7b733921d806e4",
+                "width": null
+            }
+        ],
+        "name": "Mellow Blues",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MzcsYWRkZmY2ZTYwMDcyODY3M2JlYjhmOGY5NDAwY2U0MTA3MDNkM2Q4NA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5JxWyerhVliarR0JEhV7Bh/tracks",
+            "total": 33
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5JxWyerhVliarR0JEhV7Bh"
+    },
+    {
+        "collaborative": false,
+        "description": "Handpicked, relaxed low and mid-tempo classic jazz",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6u5RL72VpPaJfeLksVLE2Q"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6u5RL72VpPaJfeLksVLE2Q",
+        "id": "6u5RL72VpPaJfeLksVLE2Q",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273028ede8b512bcdad84b887e1ab67616d0000b2737ab89c25093ea3787b1995b4ab67616d0000b273b4242c51f21e10d593e17b10ab67616d0000b273e1e375708bba16dc6ab4b6e8",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273028ede8b512bcdad84b887e1ab67616d0000b2737ab89c25093ea3787b1995b4ab67616d0000b273b4242c51f21e10d593e17b10ab67616d0000b273e1e375708bba16dc6ab4b6e8",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273028ede8b512bcdad84b887e1ab67616d0000b2737ab89c25093ea3787b1995b4ab67616d0000b273b4242c51f21e10d593e17b10ab67616d0000b273e1e375708bba16dc6ab4b6e8",
+                "width": 60
+            }
+        ],
+        "name": "Mellow Jazz",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NDE0LGIwNjE4MzI1ZThmODkzM2YwMGIyYmZiYmU3YWFlMTQ4YjViODk0ZWE=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6u5RL72VpPaJfeLksVLE2Q/tracks",
+            "total": 714
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6u5RL72VpPaJfeLksVLE2Q"
+    },
+    {
+        "collaborative": false,
+        "description": "Ska, rocksteady, roots reggae and dancehall favourites",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7JYdgqlBBhiCqjpx2pVKwf"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7JYdgqlBBhiCqjpx2pVKwf",
+        "id": "7JYdgqlBBhiCqjpx2pVKwf",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706c0000da84b040f2c0c7bfe3c7c673428e",
+                "width": null
+            }
+        ],
+        "name": "Reggae",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTEwNywyM2VmYzU3MWRmZjA3Y2M5NzVmYTRlMGVlZmYwZmUxNDQyMzI4MDJl",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7JYdgqlBBhiCqjpx2pVKwf/tracks",
+            "total": 444
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7JYdgqlBBhiCqjpx2pVKwf"
+    },
+    {
+        "collaborative": false,
+        "description": "Created with BPMPlaylist.py",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2o9jYxLJREzZOBUwhTPciZ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2o9jYxLJREzZOBUwhTPciZ",
+        "id": "2o9jYxLJREzZOBUwhTPciZ",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27309c2be8c662d7daddad065c0ab67616d0000b2733fed7960ab87453de5d350e5ab67616d0000b2737b062221d2b53a682ecb27ceab67616d0000b273b0fc2a481002f905d0eb4a21",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27309c2be8c662d7daddad065c0ab67616d0000b2733fed7960ab87453de5d350e5ab67616d0000b2737b062221d2b53a682ecb27ceab67616d0000b273b0fc2a481002f905d0eb4a21",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27309c2be8c662d7daddad065c0ab67616d0000b2733fed7960ab87453de5d350e5ab67616d0000b2737b062221d2b53a682ecb27ceab67616d0000b273b0fc2a481002f905d0eb4a21",
+                "width": 60
+            }
+        ],
+        "name": "110.0 BPM like James Hunter",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MyxhNzhmMzk4N2Q3YThhMWZiMDIyY2M3MDY5MmI3YWY3MWZmMTZjMzc2",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2o9jYxLJREzZOBUwhTPciZ/tracks",
+            "total": 20
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2o9jYxLJREzZOBUwhTPciZ"
+    },
+    {
+        "collaborative": false,
+        "description": "Created with BPMPlaylist.py",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0C2LQdf7qiDauz17YD9z7x"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0C2LQdf7qiDauz17YD9z7x",
+        "id": "0C2LQdf7qiDauz17YD9z7x",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27309c2be8c662d7daddad065c0ab67616d0000b27364734133a023e2ff8c5f6987ab67616d0000b273aff0f524411824c03ab57302ab67616d0000b273b0fc2a481002f905d0eb4a21",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27309c2be8c662d7daddad065c0ab67616d0000b27364734133a023e2ff8c5f6987ab67616d0000b273aff0f524411824c03ab57302ab67616d0000b273b0fc2a481002f905d0eb4a21",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27309c2be8c662d7daddad065c0ab67616d0000b27364734133a023e2ff8c5f6987ab67616d0000b273aff0f524411824c03ab57302ab67616d0000b273b0fc2a481002f905d0eb4a21",
+                "width": 60
+            }
+        ],
+        "name": "110.0 BPM like James Hunter, Eli Paperboy Reed",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MyxhNjExNWQ4NjY3NmE3NTFjMjQzMjMyYjJhMWRlZmU1NDI0YjYyZmNm",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0C2LQdf7qiDauz17YD9z7x/tracks",
+            "total": 20
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0C2LQdf7qiDauz17YD9z7x"
+    },
+    {
+        "collaborative": false,
+        "description": "Created with BPMPlaylist.py",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0kucF3PYVKAAnY4QYJ79Sj"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0kucF3PYVKAAnY4QYJ79Sj",
+        "id": "0kucF3PYVKAAnY4QYJ79Sj",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2733118c8c4808747736f45ced3ab67616d0000b273c8de7ac78fd16120198fa733ab67616d0000b273e9b54931e8563d2db57f10afab67616d0000b273f444fdcc34a810a9373be19c",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2733118c8c4808747736f45ced3ab67616d0000b273c8de7ac78fd16120198fa733ab67616d0000b273e9b54931e8563d2db57f10afab67616d0000b273f444fdcc34a810a9373be19c",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2733118c8c4808747736f45ced3ab67616d0000b273c8de7ac78fd16120198fa733ab67616d0000b273e9b54931e8563d2db57f10afab67616d0000b273f444fdcc34a810a9373be19c",
+                "width": 60
+            }
+        ],
+        "name": "110-115 BPM Deep-House",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NCw0ZDMyOTczNWI1N2Q3NDQ4ZjIzNmY1OGMyOWU5ODE4MDA1ZmM1YjRh",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0kucF3PYVKAAnY4QYJ79Sj/tracks",
+            "total": 10
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0kucF3PYVKAAnY4QYJ79Sj"
+    },
+    {
+        "collaborative": false,
+        "description": "Running mix around 145 BPM (mostly 140-150 BPM)",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4jdHBhEw9a9OBJ0CVbmpFX"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4jdHBhEw9a9OBJ0CVbmpFX",
+        "id": "4jdHBhEw9a9OBJ0CVbmpFX",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27308088d24452196ad58b85052ab67616d0000b2739c33fc76509d3b3e89bd5ce2ab67616d0000b273a7b5c933bee3412f94106628ab67616d0000b273b6896824cb42559c8ee9e4c3",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27308088d24452196ad58b85052ab67616d0000b2739c33fc76509d3b3e89bd5ce2ab67616d0000b273a7b5c933bee3412f94106628ab67616d0000b273b6896824cb42559c8ee9e4c3",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27308088d24452196ad58b85052ab67616d0000b2739c33fc76509d3b3e89bd5ce2ab67616d0000b273a7b5c933bee3412f94106628ab67616d0000b273b6896824cb42559c8ee9e4c3",
+                "width": 60
+            }
+        ],
+        "name": "Run",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ODIsNmQ1YzA2MzllYjM1NTk1NjMzNWZhMzUwNDYzOTFjOTk3YmE1MmNjZg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4jdHBhEw9a9OBJ0CVbmpFX/tracks",
+            "total": 68
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4jdHBhEw9a9OBJ0CVbmpFX"
+    },
+    {
+        "collaborative": false,
+        "description": "100-120 BPM",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4eeP45CCsWBw1H2KWvR8di"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4eeP45CCsWBw1H2KWvR8di",
+        "id": "4eeP45CCsWBw1H2KWvR8di",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2730b3228afad63f631943492e4ab67616d0000b27322d8fc51ab5a8d5fcb2391dbab67616d0000b273f2165490d27e56a9a6dddb74ab67616d0000b273ff9fd89c6290eb40e3c212e6",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2730b3228afad63f631943492e4ab67616d0000b27322d8fc51ab5a8d5fcb2391dbab67616d0000b273f2165490d27e56a9a6dddb74ab67616d0000b273ff9fd89c6290eb40e3c212e6",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2730b3228afad63f631943492e4ab67616d0000b27322d8fc51ab5a8d5fcb2391dbab67616d0000b273f2165490d27e56a9a6dddb74ab67616d0000b273ff9fd89c6290eb40e3c212e6",
+                "width": 60
+            }
+        ],
+        "name": "Walk",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "OTcsYWVkM2Y1NTY5NWFlNjIwNDllNDNmNzQyNGE3YzA0NTFlOGNlMzJiYw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4eeP45CCsWBw1H2KWvR8di/tracks",
+            "total": 85
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4eeP45CCsWBw1H2KWvR8di"
+    },
+    {
+        "collaborative": false,
+        "description": "mostly 90-100 BPM",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7gfpy4rdcuR1nO44VDQ2dT"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7gfpy4rdcuR1nO44VDQ2dT",
+        "id": "7gfpy4rdcuR1nO44VDQ2dT",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27322d8fc51ab5a8d5fcb2391dbab67616d0000b27352ed6b3908424b5bb203827bab67616d0000b27370f9589fde6b6e22b63a6ec9ab67616d0000b273f0062d3c4f9444cef85891f7",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27322d8fc51ab5a8d5fcb2391dbab67616d0000b27352ed6b3908424b5bb203827bab67616d0000b27370f9589fde6b6e22b63a6ec9ab67616d0000b273f0062d3c4f9444cef85891f7",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27322d8fc51ab5a8d5fcb2391dbab67616d0000b27352ed6b3908424b5bb203827bab67616d0000b27370f9589fde6b6e22b63a6ec9ab67616d0000b273f0062d3c4f9444cef85891f7",
+                "width": 60
+            }
+        ],
+        "name": "Stroll",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTMsMTE0MmU4MThiZTFlYTc4YTJlZWQ5NjM2OWJmMjk1NmZiMjNiNjAyNQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7gfpy4rdcuR1nO44VDQ2dT/tracks",
+            "total": 11
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7gfpy4rdcuR1nO44VDQ2dT"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/23F8kUoz7Cbl9IdZBijMwp"
+        },
+        "href": "https://api.spotify.com/v1/playlists/23F8kUoz7Cbl9IdZBijMwp",
+        "id": "23F8kUoz7Cbl9IdZBijMwp",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27312c4dbb67123c00c62a59b14ab67616d0000b273ab889df0b8a423dea735423eab67616d0000b273d622fc7ddbb6844e8d97ba1fab67616d0000b273df3c4d9ab61af3573e97712c",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27312c4dbb67123c00c62a59b14ab67616d0000b273ab889df0b8a423dea735423eab67616d0000b273d622fc7ddbb6844e8d97ba1fab67616d0000b273df3c4d9ab61af3573e97712c",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27312c4dbb67123c00c62a59b14ab67616d0000b273ab889df0b8a423dea735423eab67616d0000b273d622fc7ddbb6844e8d97ba1fab67616d0000b273df3c4d9ab61af3573e97712c",
+                "width": 60
+            }
+        ],
+        "name": "WCS Blues 100 bis 110 bpm",
+        "owner": {
+            "display_name": "hasskt",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/hasskt"
+            },
+            "href": "https://api.spotify.com/v1/users/hasskt",
+            "id": "hasskt",
+            "type": "user",
+            "uri": "spotify:user:hasskt"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MjQsYTJlOWIzNmEyN2IxZTM5YmFhODNjZGM0OWJlZjgxMDE5Zjg0YWZhNg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/23F8kUoz7Cbl9IdZBijMwp/tracks",
+            "total": 20
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:23F8kUoz7Cbl9IdZBijMwp"
+    },
+    {
+        "collaborative": false,
+        "description": "mostly 110-130 BPM",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7B4SPU26KpWYzdJQb2uvYT"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7B4SPU26KpWYzdJQb2uvYT",
+        "id": "7B4SPU26KpWYzdJQb2uvYT",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27323cc0f0a925845a3de4aca38ab67616d0000b2733d458302f94dcb78cbde22e6ab67616d0000b2737c39dd133836c2c1c87e34d6ab67616d0000b2738b6ffb9ba1f93ef2731f595b",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27323cc0f0a925845a3de4aca38ab67616d0000b2733d458302f94dcb78cbde22e6ab67616d0000b2737c39dd133836c2c1c87e34d6ab67616d0000b2738b6ffb9ba1f93ef2731f595b",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27323cc0f0a925845a3de4aca38ab67616d0000b2733d458302f94dcb78cbde22e6ab67616d0000b2737c39dd133836c2c1c87e34d6ab67616d0000b2738b6ffb9ba1f93ef2731f595b",
+                "width": 60
+            }
+        ],
+        "name": "Fast Walking",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NjIsZDFiNjc2MzRkNjgwOTFkMWJmZjNmZTI5ZTMxMjU5MDVhMGI3N2YxNw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7B4SPU26KpWYzdJQb2uvYT/tracks",
+            "total": 260
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7B4SPU26KpWYzdJQb2uvYT"
+    },
+    {
+        "collaborative": false,
+        "description": "mostly 128-130 BPM",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/58B3Ezs7xBVyrVnXUEOw8B"
+        },
+        "href": "https://api.spotify.com/v1/playlists/58B3Ezs7xBVyrVnXUEOw8B",
+        "id": "58B3Ezs7xBVyrVnXUEOw8B",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27319dd0643b4b58c01f46012ebab67616d0000b2733b38cb3993d645569fbc9b7bab67616d0000b2738dd56690c6f135aa4c61a12eab67616d0000b273b3daacafd6cacb4a7b7c119f",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27319dd0643b4b58c01f46012ebab67616d0000b2733b38cb3993d645569fbc9b7bab67616d0000b2738dd56690c6f135aa4c61a12eab67616d0000b273b3daacafd6cacb4a7b7c119f",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27319dd0643b4b58c01f46012ebab67616d0000b2733b38cb3993d645569fbc9b7bab67616d0000b2738dd56690c6f135aa4c61a12eab67616d0000b273b3daacafd6cacb4a7b7c119f",
+                "width": 60
+            }
+        ],
+        "name": "Walk Test",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTUsZDE4YWQyNDExMGFlYmY0OGQ5ZGFmYzUxMmQ5NGQ5N2Y1Y2VmZDgzMw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/58B3Ezs7xBVyrVnXUEOw8B/tracks",
+            "total": 25
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:58B3Ezs7xBVyrVnXUEOw8B"
+    },
+    {
+        "collaborative": false,
+        "description": "Uplifting evergreens",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2MzQi9D9OtFuUsuOS8lwtS"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2MzQi9D9OtFuUsuOS8lwtS",
+        "id": "2MzQi9D9OtFuUsuOS8lwtS",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2736f9dd97171a383e798190ba1ab67616d0000b273b59ff6e6cfd38df73bd1ca10ab67616d0000b273c791c7423d7b3b9f02fb093aab67616d0000b273e56ccadd917bed947c0828b6",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2736f9dd97171a383e798190ba1ab67616d0000b273b59ff6e6cfd38df73bd1ca10ab67616d0000b273c791c7423d7b3b9f02fb093aab67616d0000b273e56ccadd917bed947c0828b6",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2736f9dd97171a383e798190ba1ab67616d0000b273b59ff6e6cfd38df73bd1ca10ab67616d0000b273c791c7423d7b3b9f02fb093aab67616d0000b273e56ccadd917bed947c0828b6",
+                "width": 60
+            }
+        ],
+        "name": "Power Songs",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjIsNzJhOTVhZmI3YWYyZjgzNTY3NWQ0Mzk5ODEwYmZkNDFjOTA5OWY2NA==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2MzQi9D9OtFuUsuOS8lwtS/tracks",
+            "total": 926
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2MzQi9D9OtFuUsuOS8lwtS"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4VeUqY2HAGS9mxn3QS1MH1"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4VeUqY2HAGS9mxn3QS1MH1",
+        "id": "4VeUqY2HAGS9mxn3QS1MH1",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273aa85c2e7c8542e7ae8324607",
+                "width": 640
+            }
+        ],
+        "name": "Jeep Is Jumping – Zoot Sims",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MiwzZmE1YTNjODAzZjhkNWZjNjFlNWQ3ZWZlN2FkYTQ2MzI2MDQzYmE0",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4VeUqY2HAGS9mxn3QS1MH1/tracks",
+            "total": 1
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4VeUqY2HAGS9mxn3QS1MH1"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5ngdqzXvg3v6yakZ6oAcxv"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5ngdqzXvg3v6yakZ6oAcxv",
+        "id": "5ngdqzXvg3v6yakZ6oAcxv",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706c0000da843f5a22ac3e3d9506f4218e8a",
+                "width": null
+            }
+        ],
+        "name": "Trojan Archives",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjQsNGU2OWMxMGYzOGVmYmUwYjQ1MTAxNTE2N2U1MmUwNzQ2NTg0MGE1Ng==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5ngdqzXvg3v6yakZ6oAcxv/tracks",
+            "total": 749
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5ngdqzXvg3v6yakZ6oAcxv"
+    },
+    {
+        "collaborative": false,
+        "description": "My favorite easy listening tracks made in this millenium",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/566s1zzyRtF4bzv9JfpnVY"
+        },
+        "href": "https://api.spotify.com/v1/playlists/566s1zzyRtF4bzv9JfpnVY",
+        "id": "566s1zzyRtF4bzv9JfpnVY",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2730ec1d9ae6b17037e60708bd9ab67616d0000b27352167013fd2f98811d0c7f18ab67616d0000b273b531c34ad713e15aa8c6fbd9ab67616d0000b273f2fea8c924ef28093f17d277",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2730ec1d9ae6b17037e60708bd9ab67616d0000b27352167013fd2f98811d0c7f18ab67616d0000b273b531c34ad713e15aa8c6fbd9ab67616d0000b273f2fea8c924ef28093f17d277",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2730ec1d9ae6b17037e60708bd9ab67616d0000b27352167013fd2f98811d0c7f18ab67616d0000b273b531c34ad713e15aa8c6fbd9ab67616d0000b273f2fea8c924ef28093f17d277",
+                "width": 60
+            }
+        ],
+        "name": "Pop2000",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTAwLGY3ZDU1MjE3OWRlMTAzN2EyM2VjMzJhMTExYmM2ZDg2OTVjNzRiOWU=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/566s1zzyRtF4bzv9JfpnVY/tracks",
+            "total": 1149
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:566s1zzyRtF4bzv9JfpnVY"
+    },
+    {
+        "collaborative": false,
+        "description": "Jazzy stuff with fat grooves",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6yCyQLKLPHmNAM1qfXxaT2"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6yCyQLKLPHmNAM1qfXxaT2",
+        "id": "6yCyQLKLPHmNAM1qfXxaT2",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273114428ac94fcf08cd3052d07ab67616d0000b273c438365ea0ec47a018e2010aab67616d0000b273d58e5c0eea87f3fd5fafddbfab67616d0000b273fc390ce6c14df3557c4336a4",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273114428ac94fcf08cd3052d07ab67616d0000b273c438365ea0ec47a018e2010aab67616d0000b273d58e5c0eea87f3fd5fafddbfab67616d0000b273fc390ce6c14df3557c4336a4",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273114428ac94fcf08cd3052d07ab67616d0000b273c438365ea0ec47a018e2010aab67616d0000b273d58e5c0eea87f3fd5fafddbfab67616d0000b273fc390ce6c14df3557c4336a4",
+                "width": 60
+            }
+        ],
+        "name": "Phat Jazz",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTU0LGUxNzFmOWZhZmFjMjgwNWYyMTE0MDU2NTFkYzYwNzJiMGEyZWZmNzk=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6yCyQLKLPHmNAM1qfXxaT2/tracks",
+            "total": 144
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6yCyQLKLPHmNAM1qfXxaT2"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/5ggBwj8rr0RMLRha6CUvoG"
+        },
+        "href": "https://api.spotify.com/v1/playlists/5ggBwj8rr0RMLRha6CUvoG",
+        "id": "5ggBwj8rr0RMLRha6CUvoG",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2730350b5f13ed528a82d48638aab67616d0000b2732043211ca911e9fdc0ccf029ab67616d0000b27348ecf0846c5f47a7707c9db9ab67616d0000b273cfc4fdb8fd4fd866f434a46c",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2730350b5f13ed528a82d48638aab67616d0000b2732043211ca911e9fdc0ccf029ab67616d0000b27348ecf0846c5f47a7707c9db9ab67616d0000b273cfc4fdb8fd4fd866f434a46c",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2730350b5f13ed528a82d48638aab67616d0000b2732043211ca911e9fdc0ccf029ab67616d0000b27348ecf0846c5f47a7707c9db9ab67616d0000b273cfc4fdb8fd4fd866f434a46c",
+                "width": 60
+            }
+        ],
+        "name": "Guitar2Learn",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MjksOGVjOWIzZmQ2MjYwOTVhMTUwZmJlMDBmYmMzZmQyODM3NzJkOWViNg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/5ggBwj8rr0RMLRha6CUvoG/tracks",
+            "total": 26
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:5ggBwj8rr0RMLRha6CUvoG"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4yqXnNdtqO0mpVM5ean2zP"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4yqXnNdtqO0mpVM5ean2zP",
+        "id": "4yqXnNdtqO0mpVM5ean2zP",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27330f4ac16d2fd59d267cc39d0ab67616d0000b27348ecf0846c5f47a7707c9db9ab67616d0000b2738fb83e06db01547a285584f1ab67616d0000b273cfc4fdb8fd4fd866f434a46c",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27330f4ac16d2fd59d267cc39d0ab67616d0000b27348ecf0846c5f47a7707c9db9ab67616d0000b2738fb83e06db01547a285584f1ab67616d0000b273cfc4fdb8fd4fd866f434a46c",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27330f4ac16d2fd59d267cc39d0ab67616d0000b27348ecf0846c5f47a7707c9db9ab67616d0000b2738fb83e06db01547a285584f1ab67616d0000b273cfc4fdb8fd4fd866f434a46c",
+                "width": 60
+            }
+        ],
+        "name": "2 cover",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MjYsNTViOGIzOTZiYTcwNzRlNTI5ZmJmZjc3NDQzOGE5NGZiM2Q0OWI4YQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4yqXnNdtqO0mpVM5ean2zP/tracks",
+            "total": 23
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4yqXnNdtqO0mpVM5ean2zP"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6JgHlThEpheJIJOcrwBvwf"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6JgHlThEpheJIJOcrwBvwf",
+        "id": "6JgHlThEpheJIJOcrwBvwf",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273300ff09bfc2926b3bfa68d35ab67616d0000b2736f4f62da3d811b6501a69ffaab67616d0000b273cc1475f8eafa9f86aa1e22c6ab67616d0000b273ddbc5baae5ad5f0b4de990b6",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273300ff09bfc2926b3bfa68d35ab67616d0000b2736f4f62da3d811b6501a69ffaab67616d0000b273cc1475f8eafa9f86aa1e22c6ab67616d0000b273ddbc5baae5ad5f0b4de990b6",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273300ff09bfc2926b3bfa68d35ab67616d0000b2736f4f62da3d811b6501a69ffaab67616d0000b273cc1475f8eafa9f86aa1e22c6ab67616d0000b273ddbc5baae5ad5f0b4de990b6",
+                "width": 60
+            }
+        ],
+        "name": "My Shazam Tracks",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NzEsY2Y2MDFlYjk4NzU4NWRkMmUzOTU4ODVlMTk1YWViMTk4OTVhYjg0NQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6JgHlThEpheJIJOcrwBvwf/tracks",
+            "total": 230
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6JgHlThEpheJIJOcrwBvwf"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4biDlMZ2OCCEV73QTkZGqa"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4biDlMZ2OCCEV73QTkZGqa",
+        "id": "4biDlMZ2OCCEV73QTkZGqa",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706c0000da8401e96f1fca6992c43a99a97c",
+                "width": null
+            }
+        ],
+        "name": "Nu-jazz",
+        "owner": {
+            "display_name": "Guadalí Alves Arregui",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/guadali"
+            },
+            "href": "https://api.spotify.com/v1/users/guadali",
+            "id": "guadali",
+            "type": "user",
+            "uri": "spotify:user:guadali"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTY4LGU3YjYxNTk4ZjA4MjY5Y2RhOGNkM2Q4OWM0MjQ5M2U0MzgyNzIyOTQ=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4biDlMZ2OCCEV73QTkZGqa/tracks",
+            "total": 144
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4biDlMZ2OCCEV73QTkZGqa"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/77SDYBoRV02OvJWyLVO7il"
+        },
+        "href": "https://api.spotify.com/v1/playlists/77SDYBoRV02OvJWyLVO7il",
+        "id": "77SDYBoRV02OvJWyLVO7il",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2730ebc17239b6b18ba88cfb8caab67616d0000b273599dfe976032830e5ec68945ab67616d0000b273763bec54bd2fdeafbf15e317ab67616d0000b2738cd83872ff41aba0028c0bd3",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2730ebc17239b6b18ba88cfb8caab67616d0000b273599dfe976032830e5ec68945ab67616d0000b273763bec54bd2fdeafbf15e317ab67616d0000b2738cd83872ff41aba0028c0bd3",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2730ebc17239b6b18ba88cfb8caab67616d0000b273599dfe976032830e5ec68945ab67616d0000b273763bec54bd2fdeafbf15e317ab67616d0000b2738cd83872ff41aba0028c0bd3",
+                "width": 60
+            }
+        ],
+        "name": "Slow Miles",
+        "owner": {
+            "display_name": "21v5t7x3nwvfiip7ju4555lwq",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/21v5t7x3nwvfiip7ju4555lwq"
+            },
+            "href": "https://api.spotify.com/v1/users/21v5t7x3nwvfiip7ju4555lwq",
+            "id": "21v5t7x3nwvfiip7ju4555lwq",
+            "type": "user",
+            "uri": "spotify:user:21v5t7x3nwvfiip7ju4555lwq"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MjgsZTBlZjI0MGY2ZWZhMjQ1ODk1YzNjMTJjMzIyMzUwNTMxYzBiZTdkNQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/77SDYBoRV02OvJWyLVO7il/tracks",
+            "total": 21
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:77SDYBoRV02OvJWyLVO7il"
+    },
+    {
+        "collaborative": false,
+        "description": "The best of blues today. Cover: Fantastic Negrito",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcnkReojaCnV"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcnkReojaCnV",
+        "id": "37i9dQZF1DXcnkReojaCnV",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f000000021375831314d9ee51aca4144a",
+                "width": null
+            }
+        ],
+        "name": "In the Name of the Blues",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU4MzQ3MjczOCwwMDAwMDA5NTAwMDAwMTcwYWU1NDgwMjAwMDAwMDE2ZTdlNzQ5YTE1",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcnkReojaCnV/tracks",
+            "total": 79
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXcnkReojaCnV"
+    },
+    {
+        "collaborative": false,
+        "description": "Slide and steel. Set your soundtrack to some moody, gritty blues folk.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXaiAJKcabR16"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXaiAJKcabR16",
+        "id": "37i9dQZF1DXaiAJKcabR16",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f00000002260ae44a42913d2771d06c58",
+                "width": null
+            }
+        ],
+        "name": "Acoustic Grit",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU2NzY3NTk3NSwwMDAwMDAyMDAwMDAwMTY5MzljMjkyOWQwMDAwMDE2ZDAwYzUwODI1",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXaiAJKcabR16/tracks",
+            "total": 60
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DXaiAJKcabR16"
+    },
+    {
+        "collaborative": false,
+        "description": "Jam along.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSiyIBdVQrkk"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSiyIBdVQrkk",
+        "id": "37i9dQZF1DWSiyIBdVQrkk",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f0000000251216c6d6052e008a33a3d1e",
+                "width": null
+            }
+        ],
+        "name": "One Love",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU4Mzk0NjM0NywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSiyIBdVQrkk/tracks",
+            "total": 98
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWSiyIBdVQrkk"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/44EfZiqGwhWkgK7bBguE4T"
+        },
+        "href": "https://api.spotify.com/v1/playlists/44EfZiqGwhWkgK7bBguE4T",
+        "id": "44EfZiqGwhWkgK7bBguE4T",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27329214e69c0caf2c784b6662f",
+                "width": 640
+            }
+        ],
+        "name": "Jazz Pearls",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NCxiZWYyNmMyZDljZmFjOTcwNjFhNjEwYmYzMmU2NjRjZjM1NmYzY2Y5",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/44EfZiqGwhWkgK7bBguE4T/tracks",
+            "total": 2
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:44EfZiqGwhWkgK7bBguE4T"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/13jwtbDdNlY27gzmL4yGGz"
+        },
+        "href": "https://api.spotify.com/v1/playlists/13jwtbDdNlY27gzmL4yGGz",
+        "id": "13jwtbDdNlY27gzmL4yGGz",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2739cbb37d6b98eb0267ab2653a",
+                "width": 640
+            }
+        ],
+        "name": "Vivaldi: instrumentaal",
+        "owner": {
+            "display_name": "arievoog",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/arievoog"
+            },
+            "href": "https://api.spotify.com/v1/users/arievoog",
+            "id": "arievoog",
+            "type": "user",
+            "uri": "spotify:user:arievoog"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "OSw3MDM3YmYwYmJmNGQ5ZjZlMjYyOWJmMjM3ODdhNzcwNjcxYmYxOTBk",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/13jwtbDdNlY27gzmL4yGGz/tracks",
+            "total": 293
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:13jwtbDdNlY27gzmL4yGGz"
+    },
+    {
+        "collaborative": false,
+        "description": "161 - I Can&#x27;t Stop Loving You - (Swapped for Don Gibson&#x27;s Version since Ray Charles&#x27; is not available on Spotify).  419 - Nuthin&#x27; But a &#x27;G&#x27; Thang - (Swapped for Doc Drizzle&#x27;s Version since The Chronic is not available on Spotify).  484 - I Love Rock &#x27;N Roll (Swapped for The Black Jets version).",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6RxsseYlyxrkJOOmAOLQTM"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6RxsseYlyxrkJOOmAOLQTM",
+        "id": "6RxsseYlyxrkJOOmAOLQTM",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706c0000da845c1f2ac356d8e065c751e339",
+                "width": null
+            }
+        ],
+        "name": "Rolling Stone 500 Greatest Songs of All Time (2004)",
+        "owner": {
+            "display_name": "elentrepreneur",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/elentrepreneur"
+            },
+            "href": "https://api.spotify.com/v1/users/elentrepreneur",
+            "id": "elentrepreneur",
+            "type": "user",
+            "uri": "spotify:user:elentrepreneur"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NTQwLDAxNDgwZDRmOWNiMWU3ODM0YWFiZjYwMTBmOGZkMjE5MTg2NTdjYmQ=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6RxsseYlyxrkJOOmAOLQTM/tracks",
+            "total": 501
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6RxsseYlyxrkJOOmAOLQTM"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4qYxOnmvWWpSG3YAXx2emD"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4qYxOnmvWWpSG3YAXx2emD",
+        "id": "4qYxOnmvWWpSG3YAXx2emD",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27361fd2c18f28d53c757258bcbab67616d0000b273a168e8dc0c711f613cc494e5ab67616d0000b273edea48ca4655aec3a5c87acdab67616d0000b273f0a697564e3e55318051f1da",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27361fd2c18f28d53c757258bcbab67616d0000b273a168e8dc0c711f613cc494e5ab67616d0000b273edea48ca4655aec3a5c87acdab67616d0000b273f0a697564e3e55318051f1da",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27361fd2c18f28d53c757258bcbab67616d0000b273a168e8dc0c711f613cc494e5ab67616d0000b273edea48ca4655aec3a5c87acdab67616d0000b273f0a697564e3e55318051f1da",
+                "width": 60
+            }
+        ],
+        "name": "Liked from Radio",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MjMsMzZjMWUzOGNlNTU5NjNlNDAzYWM5OTE1OWRmMmE4NTFhMWNiNDJlNg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4qYxOnmvWWpSG3YAXx2emD/tracks",
+            "total": 18
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4qYxOnmvWWpSG3YAXx2emD"
+    },
+    {
+        "collaborative": false,
+        "description": "This is the new roots rock—edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues. Cover: <a href=\"spotify:artist:1VN3hs1Ra3vupNT3zN3baC\">Luke Winslow-King</a>",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSKpvyAAcaNZ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSKpvyAAcaNZ",
+        "id": "37i9dQZF1DWSKpvyAAcaNZ",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f000000024c7d8e87744cbbe6d957a7ee",
+                "width": null
+            }
+        ],
+        "name": "Blues & Roots Rock",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU3OTYyNzIxNSwwMDAwMDAzMzAwMDAwMTZmYzkxZTdiNzQwMDAwMDE2ZDE1MzA4MzI3",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSKpvyAAcaNZ/tracks",
+            "total": 140
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWSKpvyAAcaNZ"
+    },
+    {
+        "collaborative": false,
+        "description": "The perfect backdrop to an evening spent relaxing in solitude.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4wta20PHgwo"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4wta20PHgwo",
+        "id": "37i9dQZF1DX4wta20PHgwo",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f000000028dd2476df0b6af9c2a519ef6",
+                "width": null
+            }
+        ],
+        "name": "Late Night Jazz",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU4Mzk0NjM0NywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4wta20PHgwo/tracks",
+            "total": 50
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX4wta20PHgwo"
+    },
+    {
+        "collaborative": false,
+        "description": "Raw, emotional, and acoustic. Cover: Matt Andersen",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX2iUghHXGIjj"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2iUghHXGIjj",
+        "id": "37i9dQZF1DX2iUghHXGIjj",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f000000028a4af4b38032ff08fbf0c77c",
+                "width": null
+            }
+        ],
+        "name": "Acoustic Blues",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU4MDQ1MDQ2MCwwMDAwMDAzNjAwMDAwMTZmZmEzMDMxZDkwMDAwMDE2ZTdlNzQwZmE2",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX2iUghHXGIjj/tracks",
+            "total": 78
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX2iUghHXGIjj"
+    },
+    {
+        "collaborative": false,
+        "description": "Make it new. Fresh takes on vintage folk, soul, blues, and roots rock—from sweet crooners to raucous rockabilly. Cover: <a href=\"spotify:artist:0CBu2ZuF5503TaauGVk1Go\">Ruen Brothers</a>",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWV5vqkTng2MA"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWV5vqkTng2MA",
+        "id": "37i9dQZF1DWV5vqkTng2MA",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f00000002a7728e73380d58ebf3d7d4c1",
+                "width": null
+            }
+        ],
+        "name": "The New Retro",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU3NTY3NjAyNSwwMDAwMDAzMzAwMDAwMTZlZGQ5YzFhZjQwMDAwMDE2ZDE1MTM4MmUy",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWV5vqkTng2MA/tracks",
+            "total": 155
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWV5vqkTng2MA"
+    },
+    {
+        "collaborative": false,
+        "description": "Your weekly mixtape of fresh music. Enjoy new discoveries and deep cuts chosen just for you. Updated every Monday, so save your favorites!",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcU7l5x0bh4VD"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcU7l5x0bh4VD",
+        "id": "37i9dQZEVXcU7l5x0bh4VD",
+        "images": [
+            {
+                "height": null,
+                "url": "https://newjams-images.scdn.co/v2/discover-weekly/8pZ3uXMmxO09yxY3yEE16G5o5ZMyD8srfZOLTfWfkgt8ATv9Jj_m8BG_GzaKbzKsXxk9BhqO8-FnBuQXzPrXFSiJettGcV4md93dmT5sUfsoHdL-6kjiHwZL9yk0gOVlC0qVk_gbKYfMOdJZs3oCgaq-FLz-sPyJcj_8c4hw2iKf4MK8fff-8Qf5cxZIUAbo4ggv4R7UkVj3w0jq8IdcbkB5DtTiOQutbixuZqLoglP8uYlTNRLtma6zBC8Bm5Mee4pMm_PDMy5WAYylUeh19wYmJmTvsyK4PqMb0UmsCUrJDgsofjNriu9dV90OTHsxi8Kfa8XyYb-rDGLOqLpAAw==/ODM6MjU6OTBUNzItMzAtMA==/default",
+                "width": null
+            }
+        ],
+        "name": "Discover Weekly",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NDM5LDAwMDAwMDAwMjQ4NzA1NWZhNTdhNGUwNjUwZDYyYWRkNjg3YzU4YTE=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcU7l5x0bh4VD/tracks",
+            "total": 30
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZEVXcU7l5x0bh4VD"
+    },
+    {
+        "collaborative": false,
+        "description": "Your daily dose of Soul-infused music! Cover: <a href=\"spotify:artist:2RP4pPHTXlQpDnO9LvR7Yt\">Lianne La Havas</a>.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWSXWSaQmvWOB"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSXWSaQmvWOB",
+        "id": "37i9dQZF1DWSXWSaQmvWOB",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f0000000290cb9eb9e19efa559bc65da7",
+                "width": null
+            }
+        ],
+        "name": "Soul 'n' the City",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU4Mjg4MDcyNiwwMDAwMDA4MDAwMDAwMTcwOGIwYjFmYzUwMDAwMDE3MDg4ODQyOTNi",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWSXWSaQmvWOB/tracks",
+            "total": 60
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWSXWSaQmvWOB"
+    },
+    {
+        "collaborative": false,
+        "description": "All about that bass",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0N8QTiMHLoT"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0N8QTiMHLoT",
+        "id": "37i9dQZF1DX0N8QTiMHLoT",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f00000002f74089f5ff0184db25b3e3b0",
+                "width": null
+            }
+        ],
+        "name": "Bottoms Up",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU4MDQ4NjE2OCwwMDAwMDAxODAwMDAwMTZmZmM1MTEwNTUwMDAwMDE2ZmY3MTBjNWI5",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0N8QTiMHLoT/tracks",
+            "total": 59
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX0N8QTiMHLoT"
+    },
+    {
+        "collaborative": false,
+        "description": "Restful, relaxing <a href=\"spotify:genre:classical\">classical</a> music to get you through the night.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX7cBprxbt1Fn"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7cBprxbt1Fn",
+        "id": "37i9dQZF1DX7cBprxbt1Fn",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f0000000246b1401afbadd945ff46f63a",
+                "width": null
+            }
+        ],
+        "name": "Gentle Classical: From Dusk till Dawn",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU3ODY1MDE4MiwwMDAwMDAyZjAwMDAwMTZmOGVlMjIzMzEwMDAwMDE2Y2Y2OTUzMDAw",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX7cBprxbt1Fn/tracks",
+            "total": 102
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DX7cBprxbt1Fn"
+    },
+    {
+        "collaborative": false,
+        "description": "Sophisticated jazz, pop, soul &amp; legendary songs for elegant dinner time. Feat. <a href=\"https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf\">Rag'N'Bone Man</a>, Alicia Keys, Bruno Mars, Leon Bridges &amp; more.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0sG5V12Q4KEXPOvwqkrTGL"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0sG5V12Q4KEXPOvwqkrTGL",
+        "id": "0sG5V12Q4KEXPOvwqkrTGL",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706c0000da84fb9dc43a277fe69f52f74fd3",
+                "width": null
+            }
+        ],
+        "name": "Sophisticated Dinner",
+        "owner": {
+            "display_name": "Filtr",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/filtr"
+            },
+            "href": "https://api.spotify.com/v1/users/filtr",
+            "id": "filtr",
+            "type": "user",
+            "uri": "spotify:user:filtr"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NDE2LGFiYjQ0ZjE0MTU2YTM0NjA3Y2JlNTdjMWU1NWYzODBjOTliY2IzMmU=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0sG5V12Q4KEXPOvwqkrTGL/tracks",
+            "total": 70
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0sG5V12Q4KEXPOvwqkrTGL"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/4p7fyyBJvQSEbTpuYJTeV5"
+        },
+        "href": "https://api.spotify.com/v1/playlists/4p7fyyBJvQSEbTpuYJTeV5",
+        "id": "4p7fyyBJvQSEbTpuYJTeV5",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b27371c2703a5943fa476351cbfc",
+                "width": 640
+            }
+        ],
+        "name": "Straight-Ahead Jazz",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NixjZjY4NjFkOGRhYTY3YTg4MGU4NzMxNzY3NWQzYTNhMTBmY2NiN2Rk",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/4p7fyyBJvQSEbTpuYJTeV5/tracks",
+            "total": 18
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:4p7fyyBJvQSEbTpuYJTeV5"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/1rKKw6dYMuluyL9QD0JaWJ"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1rKKw6dYMuluyL9QD0JaWJ",
+        "id": "1rKKw6dYMuluyL9QD0JaWJ",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b273e8b3e8e750d0e5dd191ca264",
+                "width": 640
+            }
+        ],
+        "name": "Smooth Jazz",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "NSwxZmQwMDBjMjNhYzM0NTVjNDEzNDlhMzUyODIxNWJlMTYxNGU2MjI2",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/1rKKw6dYMuluyL9QD0JaWJ/tracks",
+            "total": 2
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1rKKw6dYMuluyL9QD0JaWJ"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/01PEgqXn5ZhC8z9a7HpVmG"
+        },
+        "href": "https://api.spotify.com/v1/playlists/01PEgqXn5ZhC8z9a7HpVmG",
+        "id": "01PEgqXn5ZhC8z9a7HpVmG",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2735180048d1ffd151c6947822bab67616d0000b273b5c9eb3bb09b23ac2e515f9fab67616d0000b273bdda6a4e9793de67f7598c91ab67616d0000b273d93e86fa97b4c91297a85699",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2735180048d1ffd151c6947822bab67616d0000b273b5c9eb3bb09b23ac2e515f9fab67616d0000b273bdda6a4e9793de67f7598c91ab67616d0000b273d93e86fa97b4c91297a85699",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2735180048d1ffd151c6947822bab67616d0000b273b5c9eb3bb09b23ac2e515f9fab67616d0000b273bdda6a4e9793de67f7598c91ab67616d0000b273d93e86fa97b4c91297a85699",
+                "width": 60
+            }
+        ],
+        "name": "Groovy Jazz",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MjgzLDVmMWQ2NWI2NTEwYjU1NmQyZTc2NjAyYzQ1OGJmOWExNDNhNTIzMTA=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/01PEgqXn5ZhC8z9a7HpVmG/tracks",
+            "total": 254
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:01PEgqXn5ZhC8z9a7HpVmG"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/31tFGldLHHeWvitXFG721v"
+        },
+        "href": "https://api.spotify.com/v1/playlists/31tFGldLHHeWvitXFG721v",
+        "id": "31tFGldLHHeWvitXFG721v",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273028ede8b512bcdad84b887e1ab67616d0000b2736eee52ed60a33a81d888720aab67616d0000b2737ab89c25093ea3787b1995b4ab67616d0000b273c00913832628c23c7952ae7b",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273028ede8b512bcdad84b887e1ab67616d0000b2736eee52ed60a33a81d888720aab67616d0000b2737ab89c25093ea3787b1995b4ab67616d0000b273c00913832628c23c7952ae7b",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273028ede8b512bcdad84b887e1ab67616d0000b2736eee52ed60a33a81d888720aab67616d0000b2737ab89c25093ea3787b1995b4ab67616d0000b273c00913832628c23c7952ae7b",
+                "width": 60
+            }
+        ],
+        "name": "Uptempo Jazz",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NDQsZGUwZDhjNDQ2ZWY4MjY4Mjc4ZTRkNDk5YjUzYzY5YWNlYmQ1ZGFkMQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/31tFGldLHHeWvitXFG721v/tracks",
+            "total": 41
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:31tFGldLHHeWvitXFG721v"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/489J1YM8xmRKwJ0KJCrDgM"
+        },
+        "href": "https://api.spotify.com/v1/playlists/489J1YM8xmRKwJ0KJCrDgM",
+        "id": "489J1YM8xmRKwJ0KJCrDgM",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27345f8719bc73c60801c9c7011ab67616d0000b2736eee52ed60a33a81d888720aab67616d0000b2737ab89c25093ea3787b1995b4ab67616d0000b273c00913832628c23c7952ae7b",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27345f8719bc73c60801c9c7011ab67616d0000b2736eee52ed60a33a81d888720aab67616d0000b2737ab89c25093ea3787b1995b4ab67616d0000b273c00913832628c23c7952ae7b",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27345f8719bc73c60801c9c7011ab67616d0000b2736eee52ed60a33a81d888720aab67616d0000b2737ab89c25093ea3787b1995b4ab67616d0000b273c00913832628c23c7952ae7b",
+                "width": 60
+            }
+        ],
+        "name": "Dinner Jazz",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTQwLDdkOGMwNGFkYTQxNjc4YTExODI4NTllMzg1ODY4ZjlkYjliZWU5Zjg=",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/489J1YM8xmRKwJ0KJCrDgM/tracks",
+            "total": 633
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:489J1YM8xmRKwJ0KJCrDgM"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/6llGZ072CW6nCfZnP4IRpI"
+        },
+        "href": "https://api.spotify.com/v1/playlists/6llGZ072CW6nCfZnP4IRpI",
+        "id": "6llGZ072CW6nCfZnP4IRpI",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27301ffa1c7915624b95b9065e0ab67616d0000b2730f81ed1bf84b3585a8492d3dab67616d0000b2737ab89c25093ea3787b1995b4ab67616d0000b273bb3ca42fa0a3f2f39143c9ab",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27301ffa1c7915624b95b9065e0ab67616d0000b2730f81ed1bf84b3585a8492d3dab67616d0000b2737ab89c25093ea3787b1995b4ab67616d0000b273bb3ca42fa0a3f2f39143c9ab",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27301ffa1c7915624b95b9065e0ab67616d0000b2730f81ed1bf84b3585a8492d3dab67616d0000b2737ab89c25093ea3787b1995b4ab67616d0000b273bb3ca42fa0a3f2f39143c9ab",
+                "width": 60
+            }
+        ],
+        "name": "Classic Jazz",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "ODQsY2M0YzI1NmZiMjVjYjNiMTVhOWNkZjMxN2VmMGExZjI5NGEwMzhiZg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/6llGZ072CW6nCfZnP4IRpI/tracks",
+            "total": 688
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:6llGZ072CW6nCfZnP4IRpI"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/1npiimUFPnfOMfFKrwyc01"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1npiimUFPnfOMfFKrwyc01",
+        "id": "1npiimUFPnfOMfFKrwyc01",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27324c6586919c7353089d78ed0ab67616d0000b27383105a5782b137639b9529a7ab67616d0000b273a36b4e921833c21b60615830ab67616d0000b273ecc82c3ccb686800dbf4426f",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27324c6586919c7353089d78ed0ab67616d0000b27383105a5782b137639b9529a7ab67616d0000b273a36b4e921833c21b60615830ab67616d0000b273ecc82c3ccb686800dbf4426f",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27324c6586919c7353089d78ed0ab67616d0000b27383105a5782b137639b9529a7ab67616d0000b273a36b4e921833c21b60615830ab67616d0000b273ecc82c3ccb686800dbf4426f",
+                "width": 60
+            }
+        ],
+        "name": "5 Star Hard Bop Albums",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "NzcsYWJkMWY5NzhmY2E2MjdjYTY5NDhiNTA0Zjg0NGU2ODc5Mzc0Nzk3MQ==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/1npiimUFPnfOMfFKrwyc01/tracks",
+            "total": 534
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1npiimUFPnfOMfFKrwyc01"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/2TvL0WQsGo5v6wKqKCuy92"
+        },
+        "href": "https://api.spotify.com/v1/playlists/2TvL0WQsGo5v6wKqKCuy92",
+        "id": "2TvL0WQsGo5v6wKqKCuy92",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27303b4df6b94fbb713034b1f12ab67616d0000b2733ec84e477b7f568cd3b8eb19ab67616d0000b273b806e05f8d992868bd15f9f2ab67616d0000b273fc390ce6c14df3557c4336a4",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27303b4df6b94fbb713034b1f12ab67616d0000b2733ec84e477b7f568cd3b8eb19ab67616d0000b273b806e05f8d992868bd15f9f2ab67616d0000b273fc390ce6c14df3557c4336a4",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27303b4df6b94fbb713034b1f12ab67616d0000b2733ec84e477b7f568cd3b8eb19ab67616d0000b273b806e05f8d992868bd15f9f2ab67616d0000b273fc390ce6c14df3557c4336a4",
+                "width": 60
+            }
+        ],
+        "name": "Songs From Telegraph Avenue",
+        "owner": {
+            "display_name": "slate_magazine",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/slate_magazine"
+            },
+            "href": "https://api.spotify.com/v1/users/slate_magazine",
+            "id": "slate_magazine",
+            "type": "user",
+            "uri": "spotify:user:slate_magazine"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MjMsOTJmMTAyMDJlMTYyZGYxYzY2NzFiMTBhZDYyNGI2YjMzYTU3Nzg0Nw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/2TvL0WQsGo5v6wKqKCuy92/tracks",
+            "total": 126
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:2TvL0WQsGo5v6wKqKCuy92"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/03ackcJZFc4w9AkYeki1uw"
+        },
+        "href": "https://api.spotify.com/v1/playlists/03ackcJZFc4w9AkYeki1uw",
+        "id": "03ackcJZFc4w9AkYeki1uw",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b27382a8fce83d36c5c8a83e2d63ab67616d0000b273a9fb7352fcf1a2f0c5ea587cab67616d0000b273bf06c841ee1cffe6850b91e0ab67616d0000b273f29d3fa766baaa97fe22091c",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b27382a8fce83d36c5c8a83e2d63ab67616d0000b273a9fb7352fcf1a2f0c5ea587cab67616d0000b273bf06c841ee1cffe6850b91e0ab67616d0000b273f29d3fa766baaa97fe22091c",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b27382a8fce83d36c5c8a83e2d63ab67616d0000b273a9fb7352fcf1a2f0c5ea587cab67616d0000b273bf06c841ee1cffe6850b91e0ab67616d0000b273f29d3fa766baaa97fe22091c",
+                "width": 60
+            }
+        ],
+        "name": "Best Jazz",
+        "owner": {
+            "display_name": "AllMusic Editors",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1239013059"
+            },
+            "href": "https://api.spotify.com/v1/users/1239013059",
+            "id": "1239013059",
+            "type": "user",
+            "uri": "spotify:user:1239013059"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MzcsNWI2MWJiY2ZiMTFkMTg1ZGEwNmE2ZjUxMzE1OWI3MWUyZWY3NGQ4Yw==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/03ackcJZFc4w9AkYeki1uw/tracks",
+            "total": 116
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:03ackcJZFc4w9AkYeki1uw"
+    },
+    {
+        "collaborative": false,
+        "description": "A relaxing atmosphere of jazz piano sounds.",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWVvXA824aCbn"
+        },
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVvXA824aCbn",
+        "id": "37i9dQZF1DWVvXA824aCbn",
+        "images": [
+            {
+                "height": null,
+                "url": "https://i.scdn.co/image/ab67706f00000002ce495a3fb2e01db25f755da0",
+                "width": null
+            }
+        ],
+        "name": "The Piano Bar",
+        "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+        },
+        "primary_color": null,
+        "public": false,
+        "snapshot_id": "MTU4MzkzNTYwMywwMDAwMDA0OTAwMDAwMTcwYzllYjQzMDgwMDAwMDE2ZDAwYzQ0ZmJk",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWVvXA824aCbn/tracks",
+            "total": 151
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:37i9dQZF1DWVvXA824aCbn"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/1FUKz6E2K5ldoAd4wbG8Ew"
+        },
+        "href": "https://api.spotify.com/v1/playlists/1FUKz6E2K5ldoAd4wbG8Ew",
+        "id": "1FUKz6E2K5ldoAd4wbG8Ew",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2730ebc17239b6b18ba88cfb8caab67616d0000b2730f81ed1bf84b3585a8492d3dab67616d0000b27319d9b2d8f296f97d144b0523ab67616d0000b273c653150f8ed1f6a12348ba79",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2730ebc17239b6b18ba88cfb8caab67616d0000b2730f81ed1bf84b3585a8492d3dab67616d0000b27319d9b2d8f296f97d144b0523ab67616d0000b273c653150f8ed1f6a12348ba79",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2730ebc17239b6b18ba88cfb8caab67616d0000b2730f81ed1bf84b3585a8492d3dab67616d0000b27319d9b2d8f296f97d144b0523ab67616d0000b273c653150f8ed1f6a12348ba79",
+                "width": 60
+            }
+        ],
+        "name": "Top hard bop tracks",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTUsMjI3NmNlODYwMjIyYWMzYjc2YmMxMjNlYzUxNTY3ZmZiM2FiZmMxZg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/1FUKz6E2K5ldoAd4wbG8Ew/tracks",
+            "total": 88
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:1FUKz6E2K5ldoAd4wbG8Ew"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/69YjiqBUyv672XV0n1RQrv"
+        },
+        "href": "https://api.spotify.com/v1/playlists/69YjiqBUyv672XV0n1RQrv",
+        "id": "69YjiqBUyv672XV0n1RQrv",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2730ebc17239b6b18ba88cfb8caab67616d0000b273206674cfc010f98e80b2ee8bab67616d0000b273710444d313a55d9f53dbea6eab67616d0000b27373e76377e38f7df33b4cc6a2",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2730ebc17239b6b18ba88cfb8caab67616d0000b273206674cfc010f98e80b2ee8bab67616d0000b273710444d313a55d9f53dbea6eab67616d0000b27373e76377e38f7df33b4cc6a2",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2730ebc17239b6b18ba88cfb8caab67616d0000b273206674cfc010f98e80b2ee8bab67616d0000b273710444d313a55d9f53dbea6eab67616d0000b27373e76377e38f7df33b4cc6a2",
+                "width": 60
+            }
+        ],
+        "name": "Top bebop tracks",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MywzOGZhMGM1NDUzYmQyYmQ0Zjg2ODBhMDE5ZjVhNjkyYTYyYWE3OTQ2",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/69YjiqBUyv672XV0n1RQrv/tracks",
+            "total": 100
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:69YjiqBUyv672XV0n1RQrv"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/0Ou5HSpnMa1Sc9uZZjnOOa"
+        },
+        "href": "https://api.spotify.com/v1/playlists/0Ou5HSpnMa1Sc9uZZjnOOa",
+        "id": "0Ou5HSpnMa1Sc9uZZjnOOa",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b273336671846b25f89e98bdf304ab67616d0000b2734a40c86ad6d2e16cdd73b1cdab67616d0000b2739a600c2a50302f3504b73f73ab67616d0000b273b5167612ea78d616a7dc9f6d",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b273336671846b25f89e98bdf304ab67616d0000b2734a40c86ad6d2e16cdd73b1cdab67616d0000b2739a600c2a50302f3504b73f73ab67616d0000b273b5167612ea78d616a7dc9f6d",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b273336671846b25f89e98bdf304ab67616d0000b2734a40c86ad6d2e16cdd73b1cdab67616d0000b2739a600c2a50302f3504b73f73ab67616d0000b273b5167612ea78d616a7dc9f6d",
+                "width": 60
+            }
+        ],
+        "name": "The Vibe!",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "MTEsM2M1NGZkZDlhMGM0NGE1ZGMzYTEwYjE1MjE1MjMxZjg3ZTVhZjFiNg==",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/0Ou5HSpnMa1Sc9uZZjnOOa/tracks",
+            "total": 123
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:0Ou5HSpnMa1Sc9uZZjnOOa"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/7pUXPo3ScNlpk4npAdXfg4"
+        },
+        "href": "https://api.spotify.com/v1/playlists/7pUXPo3ScNlpk4npAdXfg4",
+        "id": "7pUXPo3ScNlpk4npAdXfg4",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://i.scdn.co/image/ab67616d0000b2734127bae23e216ead0df2f76b",
+                "width": 640
+            }
+        ],
+        "name": "BeBop Deluxe",
+        "owner": {
+            "display_name": "jazzifyapp",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/jazzifyapp"
+            },
+            "href": "https://api.spotify.com/v1/users/jazzifyapp",
+            "id": "jazzifyapp",
+            "type": "user",
+            "uri": "spotify:user:jazzifyapp"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Myw0MjM1MDE2MGU0NDZkMjE2OGNhNWQyOGJlMzFiYmZlODcyZTY0MWJi",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/7pUXPo3ScNlpk4npAdXfg4/tracks",
+            "total": 20
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:7pUXPo3ScNlpk4npAdXfg4"
+    },
+    {
+        "collaborative": false,
+        "description": "",
+        "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/3ELlsCnc7nAqbhFC53U2W8"
+        },
+        "href": "https://api.spotify.com/v1/playlists/3ELlsCnc7nAqbhFC53U2W8",
+        "id": "3ELlsCnc7nAqbhFC53U2W8",
+        "images": [
+            {
+                "height": 640,
+                "url": "https://mosaic.scdn.co/640/ab67616d0000b2731a4d24bb05a7de3ec7fb26c3ab67616d0000b2733dc7720d9734bf59be7ddf0dab67616d0000b2738e05a1075eada1ffe2889aa1ab67616d0000b273fcf72817c60a6282770f26f4",
+                "width": 640
+            },
+            {
+                "height": 300,
+                "url": "https://mosaic.scdn.co/300/ab67616d0000b2731a4d24bb05a7de3ec7fb26c3ab67616d0000b2733dc7720d9734bf59be7ddf0dab67616d0000b2738e05a1075eada1ffe2889aa1ab67616d0000b273fcf72817c60a6282770f26f4",
+                "width": 300
+            },
+            {
+                "height": 60,
+                "url": "https://mosaic.scdn.co/60/ab67616d0000b2731a4d24bb05a7de3ec7fb26c3ab67616d0000b2733dc7720d9734bf59be7ddf0dab67616d0000b2738e05a1075eada1ffe2889aa1ab67616d0000b273fcf72817c60a6282770f26f4",
+                "width": 60
+            }
+        ],
+        "name": "Orhan",
+        "owner": {
+            "display_name": "Mehmet Birgi",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mbirgi"
+            },
+            "href": "https://api.spotify.com/v1/users/mbirgi",
+            "id": "mbirgi",
+            "type": "user",
+            "uri": "spotify:user:mbirgi"
+        },
+        "primary_color": null,
+        "public": true,
+        "snapshot_id": "Miw5MGZlNmIyZjcxMDQ5YTQzN2RmODM3NjA5OGU1ZWQ2YzQ3YTVjNjA3",
+        "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/3ELlsCnc7nAqbhFC53U2W8/tracks",
+            "total": 20
+        },
+        "type": "playlist",
+        "uri": "spotify:playlist:3ELlsCnc7nAqbhFC53U2W8"
+    }
+]
