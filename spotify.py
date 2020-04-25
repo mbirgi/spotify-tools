@@ -1,3 +1,4 @@
+import logging
 import os
 
 import spotipy
@@ -59,23 +60,23 @@ def add_tracks(spotipy_instance, playlist_id, track_ids, skip_duplicates=True):
         results = spotipy_instance.next(results)
         existing_tracks.extend(results['items'])
     existing_track_ids = [item['track']['id'] for item in existing_tracks]
-    print(f"Playlist has {len(existing_track_ids)} existing tracks")
-    print(f"Skipping duplicates: {skip_duplicates}")
+    logging.info(f"Playlist has {len(existing_track_ids)} existing tracks")
+    logging.info(f"Skipping duplicates: {skip_duplicates}")
     if skip_duplicates:
         new_track_ids = [track_id for track_id in track_ids if track_id not in existing_track_ids]
     else:
         new_track_ids = track_ids
-    print(f"{len(new_track_ids)} tracks to be added")
+    logging.info(f"{len(new_track_ids)} tracks to be added")
     user_id = spotipy_instance.current_user()['id']
     if new_track_ids:
         limit = 100
         for i in range(0, len(new_track_ids), limit):
             ids = new_track_ids[i:(i + limit)]
             spotipy_instance.user_playlist_add_tracks(user_id, playlist_id, ids)
-            print(f"{len(ids)} tracks added")
-        print("OK")
+            logging.info(f"{len(ids)} tracks added")
+        logging.info("OK")
         return
-    print("No tracks added")
+    logging.info("No tracks added")
 
 
 def get_tracks_in_playlists(spotipy_instance, playlist_ids):
