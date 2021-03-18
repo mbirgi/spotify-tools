@@ -1,3 +1,6 @@
+# virtual environment
+venv/
+
 # project specific files
 .env
 .cache*

@@ -80,7 +80,7 @@ def add_tracks(spotipy_instance, playlist_id, track_ids, skip_duplicates=True):
 
 
 def get_tracks_in_playlists(spotipy_instance, playlist_ids):
-    tracks = []
+    tracks = []    # TODO: make set for no dupes?
     for pl_id in playlist_ids:
         # print(f"Getting tracks for playlist {pl_id}")
         results = spotipy_instance.playlist_tracks(pl_id)     # TODO: get only IDs ('fields' filter)
