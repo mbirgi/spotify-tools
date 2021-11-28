@@ -15,14 +15,39 @@ def login(username='mbirgi', scope='user-library-read'):
         'redirect_uri': os.getenv('REDIRECT_URI'),
         'scope': scope
     }
-
     try:
         token = spotipy.util.prompt_for_user_token(username, **spotify_auth_params)
     except:
         os.remove(f'.cache-{username}')
         token = spotipy.util.prompt_for_user_token(username, **spotify_auth_params)
-
     return spotipy.Spotify(auth=token)
+
+
+def get_saved_albums(sp):
+    album_results = sp.current_user_saved_albums()
+    albums = album_results['items']
+    while album_results['next']:
+        album_results = sp.next(album_results)
+        albums.extend(album_results['items'])
+    return albums
+
+
+def get_saved_tracks(sp):
+    track_results = sp.current_user_saved_tracks()
+    tracks = track_results['items']
+    while track_results['next']:
+        track_results = sp.next(track_results)
+        tracks.extend(track_results['items'])
+    return tracks
+
+
+def get_playlists(sp):
+    playlist_results = sp.current_user_playlists()
+    playlists = playlist_results['items']
+    while playlist_results['next']:
+        playlist_results = sp.next(playlist_results)
+        playlists.extend(playlist_results['items'])
+    return playlists
 
 
 def get_genres(track, spotipy_instance):
@@ -52,6 +77,10 @@ def get_playlist_by_name(spotipy_instance, playlist_name, create_if_none=False):
     return playlist_id, is_new
 
 
+def populate_playlist(sp, playlist_id, track_ids):
+    # update playlist to the supplied tracks
+    exit
+
 def add_tracks(spotipy_instance, playlist_id, track_ids, skip_duplicates=True):
     # get existing tracks:
     results = spotipy_instance.playlist_tracks(playlist_id)  # TODO: get only IDs ('fields' filter)
@@ -80,7 +109,7 @@ def add_tracks(spotipy_instance, playlist_id, track_ids, skip_duplicates=True):
 
 
 def get_tracks_in_playlists(spotipy_instance, playlist_ids):
-    tracks = []    # TODO: make set for no dupes?
+    tracks = set()    # TODO: make set for no dupes? CHECK!
     for pl_id in playlist_ids:
         # print(f"Getting tracks for playlist {pl_id}")
         results = spotipy_instance.playlist_tracks(pl_id)     # TODO: get only IDs ('fields' filter)
@@ -88,7 +117,7 @@ def get_tracks_in_playlists(spotipy_instance, playlist_ids):
         while results['next']:
             results = spotipy_instance.next(results)
             pl_tracks.extend(results['items'])
-        tracks.extend(pl_tracks)
+        tracks.update(pl_tracks)
     return tracks
 
 
