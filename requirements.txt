@@ -63,7 +63,7 @@ Send2Trash==1.5.0
 six==1.15.0
 sniffio==1.2.0
 soupsieve==2.2
-spotipy==2.17.1
+spotipy==2.22.1
 terminado==0.9.3
 testpath==0.4.4
 tornado==6.1
