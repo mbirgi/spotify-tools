@@ -123,8 +123,28 @@ def get_tracks_in_playlists(spotipy_instance, playlist_ids):
 
 def get_audio_features_for_tracks(spotipy_instance, track_ids):
     batch_size = 50
-    features = []
+    # features = []
+    # for i in range(0, len(track_ids), batch_size):
+    #     results = spotipy_instance.audio_features(track_ids[i:i+batch_size])
+    #     features.extend(results)
+    # return features
+    audio_features = []
     for i in range(0, len(track_ids), batch_size):
-        results = spotipy_instance.audio_features(track_ids[i:i+batch_size])
-        features.extend(results)
-    return features
+        batch = track_ids[i:i+batch_size]
+        audio_features.extend(spotipy_instance.audio_features(batch))
+    return audio_features
+
+def get_audio_features(sp, track_ids):
+    """
+    Get audio features for a list of track IDs using Spotipy
+    
+    Args:
+        sp: Authenticated Spotipy client
+        track_ids (list): List of Spotify track IDs
+    """
+    # Spotipy automatically handles batching for us
+    try:
+        return sp.audio_features(track_ids)
+    except spotipy.SpotifyException as e:
+        print(f"Error: {str(e)}")
+        return None
